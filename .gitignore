@@ -1,0 +1,5 @@
+log/*.log
+log/*.pid
+tmp/**/*
+.DS_Store
+config.ru.production

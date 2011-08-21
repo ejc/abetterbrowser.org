@@ -1,0 +1,54 @@
+body            { background: url("http://abetterbrowser.s3.amazonaws.com/images/background.png"); }
+.wrapper        { width: 900px; padding: 20px; margin:0 auto;}
+
+/* Browser Icons */
+.chrome, .firefox,
+.safari, .opera { width :200px ;height :200px ; background: url("http://abetterbrowser.s3.amazonaws.com/images/icon_browsers.png") no-repeat; display: inline-block; text-indent: -9000px; }
+
+.chrome,
+.firefox,
+.safari         { margin-right: 20px;}
+
+.chrome         { background-position: left top; }
+.chrome:hover   { background-position: left bottom; }
+.firefox        { background-position: -200px top; }
+.firefox:hover  { background-position: -200px bottom; }
+.safari         { background-position: -400px top; }
+.safari:hover   { background-position: -400px bottom; }
+.opera          { background-position: -600px top; }
+.opera:hover    { background-position: -600px bottom; }
+
+.browsers       { width: 100%; background: url("http://abetterbrowser.s3.amazonaws.com/images/background_browsers.png"); height: 280px; }
+.browsers p     { width: 100%; text-align: center; margin-bottom: 25px; color: #AAA; font-weight: bold; text-shadow: 0 -1px 0 rgba(0,0,0,1);}
+
+.meh            { width: 100%; margin-bottom: 40px;}
+
+
+.footer         { text-align: center; }
+.footer ul li   { display: inline; list-style: none; margin-right: 20px; }
+.footer a       { color: #393532; text-shadow: 0 1px 0 rgba(255,255,255,.2); text-decoration: none; font-weight: bold; font-size: .8em; }
+.footer a:hover { text-decoration: underline; }
+.footer .logo   { display: inline-block; width: 40px; height: 33px; background: url("http://abetterbrowser.s3.amazonaws.com/images/ej_coughlin_logo.png") no-repeat; text-indent: -9000px; }
+
+/* Headlines */
+h1, h2, h3      { width: 100%; text-align: center; margin: 0; text-shadow: -1px -1px 0 rgba(0,0,0,.4); }
+h1              { font-size: 6em; letter-spacing: -1px; color: #FFF;}
+
+h2              { font-size: 1.3em; line-height: 1.8em; margin-bottom: 10px; }
+h3              { font-size: 1em; line-height: 1.3em; margin-bottom: 15px;}
+h2, h3          { color: #252220; text-shadow: 0 1px 0 rgba(255,255,255,.3); }
+
+
+/* Super Awesome 3D Text Effect from Mark Otto: http://markdotto.com/playground/3d-text */
+h1              { text-shadow: 0 1px 0 #ccc, 
+                               0 2px 0 #c9c9c9,
+                               0 3px 0 #bbb,
+                               0 4px 0 #b9b9b9,
+                               0 5px 0 #aaa,
+                               0 6px 1px rgba(0,0,0,.1),
+                               0 0 5px rgba(0,0,0,.1),
+                               0 1px 3px rgba(0,0,0,.3),
+                               0 3px 5px rgba(0,0,0,.2),
+                               0 5px 10px rgba(0,0,0,.25),
+                               0 10px 10px rgba(0,0,0,.2),
+                               0 20px 20px rgba(0,0,0,.15); }

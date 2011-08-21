@@ -1,0 +1,56 @@
+!!!
+%html
+  %head
+    %title It's Time to Choose A Better Browser
+    %link{ :rel => "stylesheet", :type => "text/css", :href => "css/reset.css" }
+    %link{ :rel => "stylesheet", :type => "text/css", :href => "css/screen.css" }
+    
+    /[if lt IE 7]
+      %script{ :type => "text/javascript", :src => "unitpngfix.js" }
+    
+    %script{ :type => "text/javascript", :src => "http://use.typekit.com/pvj7jrd.js" }
+    %script{ :type => "text/javascript" }
+      try{Typekit.load();}catch(e){}
+  %body
+    .wrapper
+      %h3 The time has come for you to choose
+      %h1 A Better Browser
+      %h2 For Security.  For Compatibility.  For Humanity
+      
+    .browsers
+      .wrapper
+        %p Internet Explorer 6 was released August 27, 2001 and is severely out of date. Please choose one of the following:
+
+        %a.chrome{ :href => "http://www.google.com/chrome", :target => "_blank" } Google Chrome
+        %a.firefox{ :href => "http://www.firefox.com", :target => "_blank" } Mozilla Firefox
+        %a.safari{ :href => "http://www.apple.com/safari/download", :target => "_blank" } Apple Safari
+        %a.opera{ :href => "http://www.opera.com/download", :target => "_blank" } Opera
+    .wrapper
+      .meh
+        %span.icon
+        %p Can’t seem to pry yourself away from Internet Explorer? There’s a slightly better version of that, too...
+        %p Microsoft Internet Explorer 9
+        
+    .wrapper.footer
+      %ul
+        %li.logo
+          %a{ :href => "http://ejcoughlin.com", :target => "_blank"} E.J. Coughlin
+        %li
+          %a{ :href => "http://ejcoughlin.com", :target => "_blank"} Designed by E.J. Coughlin
+        %li
+          %a{ :href => "http:/twitter.com/ejc", :target => "_blank"} Twitter
+        %li
+          %a{ :href => "http://github.com/ejc", :target => "_blank"} GitHub
+        %li
+          %a{ :href => "http://www.linkedin.com/in/ejcoughlin", :target => "_blank"} LinkedIn
+          
+  :javascript
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22003967-4']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
