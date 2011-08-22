@@ -4,13 +4,10 @@
     %title= t.main.title
     %link{ :rel => "stylesheet", :type => "text/css", :href => "css/reset.css" }
     %link{ :rel => "stylesheet", :type => "text/css", :href => "css/screen.css" }
+    %link{ :rel => "stylesheet", :type => "text/css", :href => "css/png_fix.css"}
     
-    /[if lt IE 7]
-      %script{ :type => "text/javascript", :src => "unitpngfix.js" }
-    
-    %script{ :type => "text/javascript", :src => "http://use.typekit.com/pvj7jrd.js" }
-    %script{ :type => "text/javascript" }
-      try{Typekit.load();}catch(e){}
+    /[if IE 6]
+      %link{ :rel => "stylesheet", :type => "text/css", :href => "css/ie6.css"}
       
     %meta{ :property => "og:title", :content => "It's time to choose a better browser." }
     %meta{ :property => "og:url", :content => "http://abetterbrowser.org/" }
@@ -19,8 +16,14 @@
     %meta{ :property => "og:description", :content => " Every day, around the globe, millions of web pages are horribly disfigured. The cause of this tragedy is Microsoft Internet Explorer. You can help. If you or someone you know is using Internet Explorer, please, save a web page. Choose A Better Browser." }
     
     %meta{ :name => "Description", :content => "A simple landing page with a simple call to action. Please choose a better browser now. It's time we put Internet Explorer in the recycle bin."} 
-    %meta{ :name => "Keywords", :content => "IE6, Browser, A Better Browser, Firefox, Chrome, Opera, Safari" }
+    %meta{ :name => "Keywords", :content => "IE6, IE7, IE8, Internet Explorer, Browser, A Better Browser, Firefox, Chrome, Opera, Safari" }
     
+    %script{ :type => "text/javascript", :src => "http://use.typekit.com/pvj7jrd.js" }
+    :javascript
+      try{Typekit.load();}catch(e){}
+      
+    %script{ :type => "text/javascript", :src => "http://abetterbrowser.s3.amazonaws.com/javascript/supersleight-min.js" }
+      
   %body
     .wrapper
       %h3= t.main.intro
@@ -31,20 +34,19 @@
       .wrapper
         %p= t.main.ie6
 
-        %a.chrome{ :href => "http://www.google.com/chrome", :target => "_blank" } Google Chrome
-        %a.firefox{ :href => "http://www.firefox.com", :target => "_blank" } Mozilla Firefox
-        %a.safari{ :href => "http://www.apple.com/safari/download", :target => "_blank" } Apple Safari
-        %a.opera{ :href => "http://www.opera.com/download", :target => "_blank" } Opera
+        %a.chrome.png{ :href => "http://www.google.com/chrome", :target => "_blank" } Google Chrome
+        %a.firefox.png{ :href => "http://www.firefox.com", :target => "_blank" } Mozilla Firefox
+        %a.safari.png{ :href => "http://www.apple.com/safari/download", :target => "_blank" } Apple Safari
+        %a.opera.png{ :href => "http://www.opera.com/download", :target => "_blank" } Opera
     .wrapper
       .meh
-        %span.icon
+        %span.icon.png
         %p= t.main.ie_lover
-        %p Microsoft Internet Explorer 9
         
     .wrapper.footer
       %ul
         %li.logo
-          %a{ :href => "http://ejcoughlin.com", :target => "_blank"} E.J. Coughlin
+          %a{ :href => "http://ejcoughlin.com", :target => "_blank", :class => "png" } E.J. Coughlin
         %li
           %a{ :href => "http://ejcoughlin.com", :target => "_blank"}= t.main.credit
         %li
