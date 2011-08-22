@@ -1,3 +1,8 @@
+menu:
+  languages: "Un mejor navegador en otros idiomas:"
+  english: "Inglés"
+  spanish: "Español"
+  
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
   intro: "La hora de elegir ha llegado."
@@ -5,4 +10,9 @@ main:
   tagline: "Por Seguridad. Por Compatibilidad. Por Humanidad."
   ie6: "Internet Explorer 6 salió Agosto 27, 2001 y ya es muy fuera de fecha. Por favor elige uno de los siguientes:"
   ie_lover: "No puedes dejar de usar Internet Explorer? También hay una versión un poco mejor que IE6..."
-  credit: Diseñado por E.J. Coughlin
+
+credits:
+  design: "Designed by E.J. Coughlin"
+  spanish: "Spanish translation by Zac Parker"
+  site_source: "Code on GitHub"
+  contribute: "If you would like to provide a translation of A Better Browser into a different language please "

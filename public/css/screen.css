@@ -1,6 +1,14 @@
 body            { background: url("http://abetterbrowser.s3.amazonaws.com/images/background.png"); }
 .wrapper        { width: 900px; padding: 20px; margin:0 auto; position: relative;}
 
+.menu           { width: 100%; background: #6b645e; padding: 8px 0; margin-bottom: 20px; }
+.menu li        { display: inline; margin-right: 20px; }
+.menu ul        { width: 900px; margin: 0 auto; text-align: center; }
+.menu li,
+.menu a         { color: #EEE; font-size: 11px; text-shadow: 0 -1px 0 rgba(0,0,0.4); }
+.menu a         { text-decoration: none; }
+.menu a:hover   { text-decoration: underline; }
+
 /* Browser Icons */
 .chrome, .firefox,
 .safari, .opera { width :200px ; height :200px; background: url("http://abetterbrowser.s3.amazonaws.com/images/icon_browsers.png") no-repeat; text-indent: -9000px; position: absolute; top: 60px }
@@ -21,25 +29,28 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .browsers       { width: 100%; background: url("http://abetterbrowser.s3.amazonaws.com/images/background_browsers.png"); height: 280px; margin-bottom: 20px; }
 .browsers p     { width: 100%; text-align: center; margin-bottom: 25px; color: #AAA; font-weight: bold; text-shadow: 0 -1px 0 rgba(0,0,0,1);}
 
-.meh             { width: 300px; margin: 0 0 90px 15px; position: relative;}
-.meh .icon       { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie_sprite.png") no-repeat; height: 40px; width: 40px; display: block; position: absolute; }
-.meh .icon:hover { background-position: 0px -40px; }
-.meh p           { padding-left: 55px; }
+.meh                { width: 300px; margin: 0 0 90px 15px; position: relative;}
+.meh .icon          { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie_sprite.png") no-repeat; height: 40px; width: 40px; display: block; position: absolute; }
+.meh .icon:hover    { background-position: 0px -40px; }
+.meh p              { padding-left: 55px; }
 
 
-.footer         { text-align: center; position: relative; }
-.footer ul li   { display: inline; list-style: none; margin-right: 20px; }
-.footer a       { color: #393532; text-shadow: 0 1px 0 rgba(255,255,255,.2); text-decoration: none; font-weight: bold; font-size: .8em; }
-.footer a:hover { text-decoration: underline; }
-.footer .logo   { position: absolute; top: 17px; left: 240px; display: block; width: 30px; height: 27px; background: url("http://abetterbrowser.s3.amazonaws.com/images/ej_coughlin_logo.png") no-repeat; text-indent: -9000px; }
+.footer             { text-align: center; position: relative; }
+.footer ul          { margin-bottom: 15px; }
+.footer ul li       { display: inline; list-style: none; margin-right: 20px; }
+.footer a,
+.footer .contribute { color: #393532; text-shadow: 0 1px 0 rgba(255,255,255,.2); text-decoration: none; font-weight: bold; font-size: .8em; }
+.footer a:hover     { text-decoration: underline; }
+.footer .logo       { position: absolute; top: 18px; left: 190px; display: block; width: 30px; height: 27px; background: url("http://abetterbrowser.s3.amazonaws.com/images/ej_coughlin_logo.png") no-repeat; text-indent: -9000px; }
+.footer .contribute { font-size: 1em; text-indent: -30px;}
 
 /* Headlines */
-h1, h2, h3      { width: 100%; text-align: center; margin: 0; text-shadow: -1px -1px 0 rgba(0,0,0,.4); }
-h1              { font-size: 6em; letter-spacing: -1px; color: #FFF;}
+h1, h2, h3          { width: 100%; text-align: center; margin: 0; text-shadow: -1px -1px 0 rgba(0,0,0,.4); }
+h1                  { font-size: 6em; letter-spacing: -1px; color: #FFF;}
 
-h2              { font-size: 1.3em; line-height: 1.8em; margin-bottom: 10px; }
-h3              { font-size: 1em; line-height: 1.3em; margin-bottom: 15px;}
-h2, h3          { color: #252220; text-shadow: 0 1px 0 rgba(255,255,255,.3); }
+h2                  { font-size: 1.3em; line-height: 1.8em; margin-bottom: 10px; }
+h3                  { font-size: 1em; line-height: 1.3em; margin-bottom: 15px;}
+h2, h3              { color: #252220; text-shadow: 0 1px 0 rgba(255,255,255,.3); }
 
 
 /* Super Awesome 3D Text Effect from Mark Otto: http://markdotto.com/playground/3d-text */

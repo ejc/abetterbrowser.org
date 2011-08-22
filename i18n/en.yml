@@ -1,3 +1,8 @@
+menu:
+  languages: "A Better Browser in other languages:"
+  english: "English"
+  spanish: "Spanish"
+
 main:
   title: "It's Time to Choose A Better Browser"
   intro: "The time has come for you to choose"
@@ -5,4 +10,9 @@ main:
   tagline: "For Security. For Compatibility. For Humanity"
   ie6: "Internet Explorer 6 was released August 27, 2001 and is severely out of date. Please choose one of the following:"
   ie_lover: "Can’t seem to pry yourself away from Internet Explorer? There’s a slightly better version of that too..."
-  credit: Designed by E.J. Coughlin
+  
+credits:
+  design: "Designed by E.J. Coughlin"
+  spanish: "Spanish translation by Zac Parker"
+  site_source: "Code on GitHub"
+  contribute: "If you would like to provide additional translations ping me on Twitter"
