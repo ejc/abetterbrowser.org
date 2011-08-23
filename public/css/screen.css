@@ -41,7 +41,6 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .footer a,
 .footer .contribute { color: #393532; text-shadow: 0 1px 0 rgba(255,255,255,.2); text-decoration: none; font-weight: bold; font-size: .8em; }
 .footer a:hover     { text-decoration: underline; }
-.footer .logo       { position: absolute; top: 18px; left: 190px; display: block; width: 30px; height: 27px; background: url("http://abetterbrowser.s3.amazonaws.com/images/ej_coughlin_logo.png") no-repeat; text-indent: -9000px; }
 .footer .contribute { font-size: 1em; text-indent: -30px;}
 
 /* Headlines */
