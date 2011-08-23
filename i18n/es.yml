@@ -2,7 +2,7 @@ menu:
   languages: "Un mejor navegador en otros idiomas:"
   english: "Inglés"
   spanish: "Español"
-  
+
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
   intro: "La hora de elegir ha llegado."
@@ -12,7 +12,7 @@ main:
   ie_lover: "No puedes dejar de usar Internet Explorer? También hay una versión un poco mejor que IE6..."
 
 credits:
-  design: "Designed by E.J. Coughlin"
-  spanish: "Spanish translation by Zac Parker"
-  site_source: "Code on GitHub"
-  contribute: "If you would like to provide a translation of A Better Browser into a different language please "
+  design: "Diseñado por E.J. Coughlin"
+  spanish: "Traducción al Español Zac Parker"
+  site_source: "Codigo en GitHub"
+  contribute: "Sí te gustaría traducir Un Mejor Navegador a otro idioma, por favor contactame en Twitter"
