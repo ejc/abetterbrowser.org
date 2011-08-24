@@ -5,16 +5,16 @@ menu:
   french: "Française"
 
 main:
-  title: "Il est temps d'utiliser un meilleur navigateur"
-  intro: "Il est temps de choisir"
-  headline: "Un meilleur navigateur"
-  tagline: "Pour la sécurité. Pour la compatibilité. Pour l'humanité"
-  ie6: "Internet Explorer 6 date du 27 Août 2001, et souffre sévérement de son âge. Changez pour un des navigateurs suivants:"
-  ie_lover: "Pas de navigation sans Internet Explorer ? Une meilleure option reste envisageable..."
+  title: "Il est temps de choisir un meilleur navigateur"
+  intro: "Il est temps pour vous de choisir"
+  headline: "Un Meilleur Navigateur"
+  tagline: "Pour la Sécurité. Pour la Compatibilité. Pour l'Humanité"
+  ie6: "Internet Explorer 6 date du 27 Août 2001, et est complètement dépassé. Changez pour un des navigateurs suivants:"
+  ie_lover: "Impossible de vous séparer d'Internet Explorer ? Une meilleure option reste envisageable..."
 
 credits:
   design: "Créé par E.J. Coughlin"
   spanish: "Traduction Espagnol de Zac Parker"
-  french: "Traduction française de Noureddine Seddik"
+  french: "Traduction Française de Noureddine Seddik"
   site_source: "Code sur GitHub"
   contribute: "Vous souhaitez traduire dans d'autres langues, contactez moi sur Twitter"
