@@ -2,6 +2,7 @@ menu:
   languages: "Un meilleur navigateur dans d'autres langues:"
   english: "Anglais"
   spanish: "Espagnol"
+  french: "Française"
 
 main:
   title: "Il est temps d'utiliser un meilleur navigateur"
@@ -13,6 +14,7 @@ main:
 
 credits:
   design: "Créé par E.J. Coughlin"
-  spanish: "Traduction française de Noureddine Seddik"
+  spanish: "Traduction Espagnol de Zac Parker"
+  french: "Traduction française de Noureddine Seddik"
   site_source: "Code sur GitHub"
   contribute: "Vous souhaitez traduire dans d'autres langues, contactez moi sur Twitter"

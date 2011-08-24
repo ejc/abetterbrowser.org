@@ -2,7 +2,8 @@ menu:
   languages: "Un mejor navegador en otros idiomas:"
   english: "Inglés"
   spanish: "Español"
-
+  french: "Frances"
+  
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
   intro: "La hora de elegir ha llegado."
@@ -14,5 +15,6 @@ main:
 credits:
   design: "Diseñado por E.J. Coughlin"
   spanish: "Traducción al Español por Zac Parker"
+  french: "Traducción al Frances por Nourredine Seddik"
   site_source: "Codigo en GitHub"
   contribute: "Sí te gustaría traducir Un Mejor Navegador a otro idioma, por favor contactame en Twitter"
