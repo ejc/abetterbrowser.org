@@ -3,7 +3,7 @@ menu:
   english: "Anglais"
   spanish: "Espagnol"
   french: "Française"
-  german: "GERMAN"
+  german: "Allemande"
 
 main:
   title: "Il est temps de choisir un meilleur navigateur"
@@ -18,6 +18,6 @@ credits:
   design: "Créé par E.J. Coughlin"
   spanish: "Espagnol de Zac Parker"
   french: "Française de Noureddine Seddik"
-  french: "GERMAN de Erik Fischer"
+  german: "Allemande de Erik Fischer"
   site_source: "Code sur GitHub"
   contribute: "Vous souhaitez traduire dans d'autres langues, contactez moi sur Twitter"
