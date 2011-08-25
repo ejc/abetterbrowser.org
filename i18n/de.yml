@@ -1,0 +1,23 @@
+menu:
+  languages: "Ein besser Browser in anderen Sprachen:"
+  english: "Englisch"
+  spanish: "Spanisch"
+  french: "Französisch"
+  german: "Deutsch"
+
+main:
+  title: "Es ist Zeit einen besseren Browser auszuwählen"
+  intro: "Die Zeit ist gekommen für sie zu wählen"
+  headline: "Ein Besserer Browser"
+  tagline: "Für Sicherheit. Für Kompatibilität. Für Menschheit."
+  ie6: "Internet Explorer 6 wurde am 27. August 2001 veröffentlicht und ist stark veraltet. Bitte wählen Sie eine der folgenden Möglichkeiten:"
+  ie_lover: "Können sich nicht vom Internet Explorer losreißen? Es gibt auch jetzt eine etwas bessere Version ..."
+  
+credits:
+  translation: "Übersetzung"
+  design: "Entworfen von E.J. Coughlin"
+  spanish: "Spanischer von Zac Parker"
+  french: "Französischer von Nourredine Seddik"
+  german: "Deutsch von Erik Fischer"
+  site_source: "Code auf GitHub"
+  contribute: "Wenn Sie zusätzliche Übersetzungen hinzufügen möchten, können sie mich bitte über Twitter erreichen"

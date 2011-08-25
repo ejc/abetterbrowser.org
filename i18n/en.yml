@@ -3,6 +3,7 @@ menu:
   english: "English"
   spanish: "Spanish"
   french: "French"
+  german: "German"
 
 main:
   title: "It's Time to Choose A Better Browser"
@@ -13,8 +14,10 @@ main:
   ie_lover: "Can’t seem to pry yourself away from Internet Explorer? There’s a slightly better version of that too..."
   
 credits:
+  translation: "Translation"
   design: "Designed by E.J. Coughlin"
-  spanish: "Spanish translation by Zac Parker"
-  french: "French translation by Nourredine Seddik"
+  spanish: "Spanish by Zac Parker"
+  french: "French by Nourredine Seddik"
+  german: "German by Erik Fischer"
   site_source: "Code on GitHub"
   contribute: "If you would like to provide additional translations ping me on Twitter"

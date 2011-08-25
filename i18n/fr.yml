@@ -3,6 +3,7 @@ menu:
   english: "Anglais"
   spanish: "Espagnol"
   french: "Française"
+  german: "GERMAN"
 
 main:
   title: "Il est temps de choisir un meilleur navigateur"
@@ -13,8 +14,10 @@ main:
   ie_lover: "Impossible de vous séparer d'Internet Explorer ? Une meilleure option reste envisageable..."
 
 credits:
+  translation: "Traduction"
   design: "Créé par E.J. Coughlin"
-  spanish: "Traduction Espagnol de Zac Parker"
-  french: "Traduction Française de Noureddine Seddik"
+  spanish: "Espagnol de Zac Parker"
+  french: "Française de Noureddine Seddik"
+  french: "GERMAN de Erik Fischer"
   site_source: "Code sur GitHub"
   contribute: "Vous souhaitez traduire dans d'autres langues, contactez moi sur Twitter"

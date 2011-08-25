@@ -3,6 +3,7 @@ menu:
   english: "Inglés"
   spanish: "Español"
   french: "Frances"
+  german: "GERMAN"
   
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
@@ -13,8 +14,10 @@ main:
   ie_lover: "No puedes dejar de usar Internet Explorer? También hay una versión un poco mejor que IE6..."
 
 credits:
+  translation: "Traducción"
   design: "Diseñado por E.J. Coughlin"
-  spanish: "Traducción al Español por Zac Parker"
-  french: "Traducción al Frances por Nourredine Seddik"
+  spanish: "Español por Zac Parker"
+  french: "Frances por Nourredine Seddik"
+  german: "GERMAN por Erik Fischer"
   site_source: "Codigo en GitHub"
   contribute: "Sí te gustaría traducir Un Mejor Navegador a otro idioma, por favor contactame en Twitter"
