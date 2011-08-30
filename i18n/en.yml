@@ -4,6 +4,7 @@ menu:
   spanish: "Spanish"
   french: "French"
   german: "German"
+  italian: "Italian"
 
 main:
   title: "It's Time to Choose A Better Browser"
@@ -19,5 +20,6 @@ credits:
   spanish: "Spanish by Zac Parker"
   french: "French by Nourredine Seddik"
   german: "German by Erik Fischer"
+  italian: "Italian by Giustino Borzacchiello"
   site_source: "Code on GitHub"
   contribute: "If you would like to provide additional translations ping me on Twitter"

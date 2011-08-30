@@ -23,8 +23,6 @@
     :javascript
       try{Typekit.load();}catch(e){}
       
-    %script{ :type => "text/javascript", :src => "http://abetterbrowser.s3.amazonaws.com/javascript/supersleight-min.js" }
-      
   %body
     .menu
       %ul
@@ -37,6 +35,8 @@
           %a{:href => "/fr"}= t.menu.french
         %li
           %a{:href => "/de"}= t.menu.german
+        %li
+          %a{:href => "/it"}= t.menu.italian
           
     .wrapper
       %h3= t.main.intro
@@ -56,6 +56,20 @@
         %a.icon.png{ :href => "http://windows.microsoft.com/en-US/internet-explorer/downloads/ie", :target => "_blank" }
         %p= t.main.ie_lover
         
+      .social
+        %ul
+          %li.twitter
+            :plain
+              <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://abetterbrowser.org" data-text="It's time we put Internet Explorer in the recycle bin. Choose a better browser." data-count="horizontal" data-via="abetterbrowser" data-related="ejc">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+          %li.google
+            :plain
+              <g:plusone size="medium" annotation="inline"></g:plusone>
+          %li.facebook
+            :plain
+              <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=252966201401275&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/pages/A-Better-Browser/250509481647978" send="true" layout="button_count" send="false" width="450" show_faces="false" font=""></fb:like>
+              
+            
+        
     .wrapper.footer
       %ul
         %li
@@ -70,6 +84,8 @@
           %a{ :href => "#"}= t.credits.french
         %li
           %a{ :href => "http://erikfischerphotography.com", :target => "_blank"}= t.credits.german
+        %li
+          %a{ :href => "http://twitter.com/jubstuff", :target => "_blank"}= t.credits.italian
       %p.contribute
         %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.contribute + " @ejc"
 
@@ -97,4 +113,11 @@
     t.src = '//secure.gaug.es/track.js';
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(t, s);
+    })();
+    
+  :javascript
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
     })();

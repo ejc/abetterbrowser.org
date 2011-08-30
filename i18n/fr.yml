@@ -4,6 +4,7 @@ menu:
   spanish: "Espagnol"
   french: "Française"
   german: "Allemande"
+  italian: "Italienne"
 
 main:
   title: "Il est temps de choisir un meilleur navigateur"
@@ -19,5 +20,6 @@ credits:
   spanish: "Espagnol de Zac Parker"
   french: "Française de Noureddine Seddik"
   german: "Allemande de Erik Fischer"
+  italian: "Italienne de Giustino Borzacchiello"
   site_source: "Code sur GitHub"
   contribute: "Vous souhaitez traduire dans d'autres langues, contactez moi sur Twitter"

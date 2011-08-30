@@ -4,6 +4,7 @@ menu:
   spanish: "Spanisch"
   french: "Französisch"
   german: "Deutsch"
+  italian: "Italienisch"
 
 main:
   title: "Es ist Zeit, einen besseren Browser zu wählen"
@@ -19,5 +20,6 @@ credits:
   spanish: "Spanisch von Zac Parker"
   french: "Französisch von Nourredine Seddik"
   german: "Deutsch von Erik Fischer und Fabian Beiner"
+  italian: "Italienisch von Giustino Borzacchiello"
   site_source: "Code auf GitHub"
   contribute: "Wenn Sie eine weitere Übersetzung hinzufügen möchten, können Sie mich via Twitter erreichen:"
