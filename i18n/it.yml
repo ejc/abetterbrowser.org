@@ -4,7 +4,7 @@ menu:
   spanish: "Spagnolo"
   french: "Francese"
   german: "Tedesco"
-
+  italian: "Italiano"
 main:
   title: "È tempo di scegliere Un Browser Migliore"
   intro: "È giunto il tempo per scegliere"
@@ -19,5 +19,6 @@ credits:
   spanish: "Spagnolo a cura di Zac Parker"
   french: "Francese a cura di Nourredine Seddik"
   german: "Tedesco a cura di Erik Fischer"
+  italian: "Italiano a cura di Giustino Borzacchiello"
   site_source: "Codice su GitHub"
   contribute: "Se vuoi aggiungere altre traduzioni, contattami su Twitter"
