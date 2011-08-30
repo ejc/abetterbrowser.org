@@ -1,0 +1,24 @@
+menu:
+  languages: "Un Browser Migliore in altre lingue:"
+  english: "Inglese"
+  spanish: "Spagnolo"
+  french: "Francese"
+  german: "Tedesco"
+  italian: "Italiano"
+main:
+  title: "È tempo di scegliere Un Browser Migliore"
+  intro: "È giunto il tempo per scegliere"
+  headline: "Un Browser Migliore"
+  tagline: "Per la Sicurezza. Per la Compatibilità. Per l'Umanità"
+  ie6: "Internet Explorer 6 è stato rilasciato il 27 Agosto 2001 ed è veramente obsoleto. Per favore, scegli uno dei seguenti browser:"
+  ie_lover: "Non riesci ad abbandonare Internet Explorer? Ce n'è anche una versione leggermente migliore..."
+  
+credits:
+  translation: "Traduzione"
+  design: "Progettato da E.J. Coughlin"
+  spanish: "Spagnolo a cura di Zac Parker"
+  french: "Francese a cura di Nourredine Seddik"
+  german: "Tedesco a cura di Erik Fischer"
+  italian: "Italiano a cura di Giustino Borzacchiello"
+  site_source: "Codice su GitHub"
+  contribute: "Se vuoi aggiungere altre traduzioni, contattami su Twitter"
