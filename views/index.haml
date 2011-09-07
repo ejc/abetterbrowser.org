@@ -37,6 +37,8 @@
           %a{:href => "/de"}= t.menu.german
         %li
           %a{:href => "/it"}= t.menu.italian
+        %li
+          %a{:href => "/sr"}= t.menu.serbian
           
     .wrapper
       %h3= t.main.intro
@@ -86,6 +88,8 @@
           %a{ :href => "http://erikfischerphotography.com", :target => "_blank"}= t.credits.german
         %li
           %a{ :href => "http://twitter.com/jubstuff", :target => "_blank"}= t.credits.italian
+        %li
+          %a{ :href => "http://twitter.com/npantos"}= t.credits.serbian
       %p.contribute
         %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.contribute + " @ejc"
 
@@ -99,20 +103,6 @@
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-    
-    
-  :javascript
-    var _gauges = _gauges || [];
-    (function() {
-    var t   = document.createElement('script');
-    t.type  = 'text/javascript';
-    t.async = true;
-    t.id    = 'gauges-tracker';
-    t.setAttribute('data-site-id', '4e54270bf5a1f5392b000003');
-    t.src = '//secure.gaug.es/track.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(t, s);
     })();
     
   :javascript

@@ -5,6 +5,7 @@ menu:
   french: "Française"
   german: "Allemande"
   italian: "Italienne"
+  serbian: "Serbes"
 
 main:
   title: "Il est temps de choisir un meilleur navigateur"
@@ -19,7 +20,8 @@ credits:
   design: "Créé par E.J. Coughlin"
   spanish: "Espagnol de Zac Parker"
   french: "Française de Noureddine Seddik"
-  german: "Allemande de Erik Fischer"
+  german: "Allemande de Erik Fischer et Fabian Beiner"
   italian: "Italienne de Giustino Borzacchiello"
+  serbian: "Serbes de Nemanja Pantoš"
   site_source: "Code sur GitHub"
   contribute: "Vous souhaitez traduire dans d'autres langues, contactez moi sur Twitter"

@@ -5,6 +5,8 @@ menu:
   french: "Francese"
   german: "Tedesco"
   italian: "Italiano"
+  serbian: "Serbian"
+  
 main:
   title: "È tempo di scegliere Un Browser Migliore"
   intro: "È giunto il tempo per scegliere"
@@ -18,7 +20,8 @@ credits:
   design: "Progettato da E.J. Coughlin"
   spanish: "Spagnolo a cura di Zac Parker"
   french: "Francese a cura di Nourredine Seddik"
-  german: "Tedesco a cura di Erik Fischer"
+  german: "Tedesco a cura di Erik Fischer e Fabian Beiner"
   italian: "Italiano a cura di Giustino Borzacchiello"
+  serbian: "Serbo a Nemanja Pantoš"
   site_source: "Codice su GitHub"
   contribute: "Se vuoi aggiungere altre traduzioni, contattami su Twitter"

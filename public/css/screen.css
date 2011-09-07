@@ -34,7 +34,7 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .meh .icon:hover      { background-position: 0px -40px; }
 .meh p                { padding-left: 55px; }
 
-.social               { position: absolute; display: block; left: 600px; top: 30px; }
+.social               { position: absolute; display: block; left: 600px; top: 30px; width: 350px; overflow: hidden; height: 50px;}
 .social .twitter,
 .social .google,
 .social .facebook     { position: absolute; display: block; top: 0px; }
@@ -52,7 +52,7 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .footer .contribute a { font-size: 11px; text-indent: -30px; color: #393532;}
 .footer .translation,
 .footer .translation a,
-.footer .translation li { font-size: 14px; margin-bottom: 40px; font-weight: normal;}
+.footer .translation li { font-size: 11px; margin-bottom: 40px; font-weight: normal; color: #201e1c;}
 
 /* Headlines */
 h1, h2, h3            { width: 100%; text-align: center; margin: 0; text-shadow: -1px -1px 0 rgba(0,0,0,.4); }

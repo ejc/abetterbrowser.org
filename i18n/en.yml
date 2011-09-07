@@ -5,6 +5,7 @@ menu:
   french: "French"
   german: "German"
   italian: "Italian"
+  serbian: "Serbian"
 
 main:
   title: "It's Time to Choose A Better Browser"
@@ -19,7 +20,8 @@ credits:
   design: "Designed by E.J. Coughlin"
   spanish: "Spanish by Zac Parker"
   french: "French by Nourredine Seddik"
-  german: "German by Erik Fischer"
+  german: "German by Erik Fischer and Fabian Beiner"
   italian: "Italian by Giustino Borzacchiello"
+  serbian: "Serbian by Nemanja Pantoš"
   site_source: "Code on GitHub"
   contribute: "If you would like to provide additional translations ping me on Twitter"

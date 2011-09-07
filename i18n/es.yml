@@ -5,6 +5,7 @@ menu:
   french: "Frances"
   german: "Alemán"
   italian: "Italiano"
+  serbian: "Serbio"
   
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
@@ -19,7 +20,8 @@ credits:
   design: "Diseñado por E.J. Coughlin"
   spanish: "Español por Zac Parker"
   french: "Frances por Nourredine Seddik"
-  german: "Alemán por Erik Fischer"
+  german: "Alemán por Erik Fischer y Fabian Beiner"
   italian: "Italiano por Giustino Borzacchiello"
+  serbian: "Serbio por Nemanja Pantoš"
   site_source: "Codigo en GitHub"
   contribute: "Sí te gustaría traducir Un Mejor Navegador a otro idioma, por favor contactame en Twitter"

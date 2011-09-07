@@ -1,0 +1,27 @@
+menu:
+  languages: "Бољи браузер на осталим језицима:"
+  english: "Енглески"
+  spanish: "Шпански"
+  french: "Француски"
+  german: "Немачки"
+  italian: "Италијански"
+  serbian: "Српски"
+
+main:
+  title: "Време је да изаберете бољи браузер"
+  intro: "Дошло је време за Вас да изаберете"
+  headline: "Бољи браузер"
+  tagline: "За безбедност. За компатибилност. За човечанство."
+  ie6: "Internet Explorer 6 је изашао 27. августа 2001. године и веома је застарео. Молимо Вас да изаберете један од следећих:"
+  ie_lover: "Не можете да побегнете од Internet Explorer-а? Постоји малко боља верзија и тога..."
+  
+credits:
+  translation: "Превод"
+  design: "Дизајн: E.J. Coughlin"
+  spanish: "Шпански: Zac Parker"
+  french: "Француски: Nourredine Seddik"
+  german: "Немачки: Erik Fischer"
+  italian: "Италијански: Giustino Borzacchiello"
+  serbian: "Српски: Немања Пантош"
+  site_source: "Код на GitHub-у"
+  contribute: "Ако желите да обезбедите додатни превод, контактирајте ме на Twitter-у"

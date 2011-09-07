@@ -5,6 +5,7 @@ menu:
   french: "Französisch"
   german: "Deutsch"
   italian: "Italienisch"
+  serbian: "Serbisch"
 
 main:
   title: "Es ist Zeit, einen besseren Browser zu wählen"
@@ -21,5 +22,6 @@ credits:
   french: "Französisch von Nourredine Seddik"
   german: "Deutsch von Erik Fischer und Fabian Beiner"
   italian: "Italienisch von Giustino Borzacchiello"
+  serbian: "Serbisch von Nemanja Pantoš"
   site_source: "Code auf GitHub"
   contribute: "Wenn Sie eine weitere Übersetzung hinzufügen möchten, können Sie mich via Twitter erreichen:"
