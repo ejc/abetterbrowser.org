@@ -1,0 +1,29 @@
+menu:
+  languages: "Um Navegador Melhor em outras línguas:"
+  english: "Inglês"
+  spanish: "Espanhol"
+  french: "Francês"
+  german: "Alemão"
+  italian: "Italiano"
+  serbian: "Sérvio"
+  portuguesebr: "Português Brasileiro"
+
+main:
+  title: "Chegou a hora de escolher um navegador melhor"
+  intro: "Chegou a hora de você escolher"
+  headline: "Um navegador melhor"
+  tagline: "Pela Segurança. Pela Compatibilidade. Pela Humanidade"
+  ie6: "O Internet Explorer 6 foi lançado em 27 de agosto de 2001 e está severamente desatualizado. Por favor escolha um dos seguintes:"
+  ie_lover: "Não consegue abandonar o Internet Explorer? Há uma versão melhor dele também..."
+  
+credits:
+  translation: "Tradução"
+  design: "Desenvolvido por E.J. Coughlin"
+  spanish: "Espanhol por Zac Parker"
+  french: "Francês por Nourredine Seddik"
+  german: "Alemão por Erik Fischer e Fabian Beiner"
+  italian: "Italiano por Giustino Borzacchiello"
+  serbian: "Sérvio por Nemanja Pantoš"
+  portuguesebr: "Português Brasileiro por Matheus R. Kautzmann"
+  site_source: "Código no GitHub"
+  contribute: "Se você gostaria de enviar novas traduções fale comigo no Twitter"
