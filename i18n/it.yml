@@ -3,10 +3,12 @@ menu:
   english: "Inglese"
   spanish: "Spagnolo"
   french: "Francese"
-  german: "Tedesco"
   italian: "Italiano"
-  serbian: "Serbian"
-  
+  german: "Tedesco"
+  czech: "Ceco"
+  serbian: "Serbo"
+  portuguesebr: "Portoghese Brasiliano"
+
 main:
   title: "È tempo di scegliere Un Browser Migliore"
   intro: "È giunto il tempo per scegliere"
@@ -20,8 +22,10 @@ credits:
   design: "Progettato da E.J. Coughlin"
   spanish: "Spagnolo a cura di Zac Parker"
   french: "Francese a cura di Nourredine Seddik"
-  german: "Tedesco a cura di Erik Fischer e Fabian Beiner"
   italian: "Italiano a cura di Giustino Borzacchiello"
+  german: "Tedesco a cura di Erik Fischer e Fabian Beiner"
+  czech: "Ceco a cura di Marek Hrabě"
   serbian: "Serbo a Nemanja Pantoš"
+  portuguesebr: "Portoghese Brasiliano a cura di Matheus R. Kautzmann"
   site_source: "Codice su GitHub"
   contribute: "Se vuoi aggiungere altre traduzioni, contattami su Twitter"

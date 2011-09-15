@@ -49,10 +49,12 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .footer a,
 .footer li            { color: #201e1c; text-shadow: 0 1px 0 rgba(255,255,255,.2); text-decoration: none; font-weight: bold; font-size: 12px; }
 .footer a:hover       { text-decoration: underline; }
-.footer .contribute a { font-size: 11px; text-indent: -30px; color: #393532;}
+.footer .contribute a { font-size: 14px; text-indent: -30px; color: #393532;}
 .footer .translation,
 .footer .translation a,
-.footer .translation li { font-size: 11px; margin-bottom: 40px; font-weight: normal; color: #201e1c;}
+.footer .translation li     { font-size: 12px; font-weight: normal; color: #201e1c;}
+.footer .translation.first  { margin-bottom: 11px; }
+.footer .translation.second { margin-bottom: 40px; }
 
 /* Headlines */
 h1, h2, h3            { width: 100%; text-align: center; margin: 0; text-shadow: -1px -1px 0 rgba(0,0,0,.4); }

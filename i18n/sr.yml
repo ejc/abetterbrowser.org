@@ -3,9 +3,12 @@ menu:
   english: "Енглески"
   spanish: "Шпански"
   french: "Француски"
-  german: "Немачки"
   italian: "Италијански"
+  german: "Немачки"
+  czech: "чешки"
   serbian: "Српски"
+  portuguesebr: "бразилски португалски"
+
 
 main:
   title: "Време је да изаберете бољи браузер"
@@ -20,8 +23,10 @@ credits:
   design: "Дизајн: E.J. Coughlin"
   spanish: "Шпански: Zac Parker"
   french: "Француски: Nourredine Seddik"
-  german: "Немачки: Erik Fischer"
   italian: "Италијански: Giustino Borzacchiello"
+  german: "Немачки: Erik Fischer + Fabian Beiner"
+  czech: "чешки: Marek Hrabě"
   serbian: "Српски: Немања Пантош"
+  portuguesebr: "бразилски португалски: Matheus R. Kautzmann"
   site_source: "Код на GitHub-у"
   contribute: "Ако желите да обезбедите додатни превод, контактирајте ме на Twitter-у"
