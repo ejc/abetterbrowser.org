@@ -1,0 +1,32 @@
+menu:
+  languages: "Лучший Браузер на других языках:"
+  english: "English"
+  spanish: "Spanish"
+  french: "French"
+  italian: "Italian"
+  german: "German"
+  czech: "Czech"
+  serbian: "Serbian"
+  portuguesebr: "Brazilian Portuguese"
+  russian: "Русский"
+
+main:
+  title: "Настало время выбрать современный браузер!"
+  intro: "Пришло время выбрать"
+  headline: "Лучший Браузер"
+  tagline: "Ради безопасности. Ради совместимости. Ради человечности"
+  ie6: "Internet Explorer 6 был выпущен 27 августа 2001 года и порядочно устарел. Пожалуйста, выберите один из этих браузеров:"
+  ie_lover: "Не можете отказаться от Internet Explorer? Здесь можно скачать более современную версию..."
+
+credits:
+  translation: "Перевод:"
+  design: "Дизайн - E.J. Coughlin"
+  spanish: "Испанский - Zac Parker"
+  french: "Французский - Nourredine Seddik"
+  italian: "Итальянский - Giustino Borzacchiello"
+  german: "Немецкий - Erik Fischer and Fabian Beiner"
+  czech: "Чешский - Marek Hrabě"
+  serbian: "Сербский - Nemanja Pantoš"
+  portuguesebr: "Португальский Matheus R. Kautzmann"
+  site_source: "Исходники на GitHub"
+  contribute: "Если вы хотите помочь с переводом - обратитесь ко мне в Твиттер"
