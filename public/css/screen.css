@@ -29,21 +29,24 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .browsers             { width: 100%; background: url("http://abetterbrowser.s3.amazonaws.com/images/background_browsers.png"); height: 280px; margin-bottom: 20px; }
 .browsers p           { width: 100%; text-align: center; margin-bottom: 25px; color: #AAA; font-weight: bold; text-shadow: 0 -1px 0 rgba(0,0,0,1);}
 
-.meh                  { width: 300px; margin: 0 0 50px 15px; position: relative;}
+.meh                  { width: 710px; margin: 0 auto; position: relative; top: 140px;}
 .meh .icon            { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie_sprite.png") no-repeat; height: 40px; width: 40px; display: block; position: absolute; }
 .meh .icon:hover      { background-position: 0px -40px; }
-.meh p                { padding-left: 55px; }
+.meh p                { padding-left: 55px; padding-top: 10px;}
 
-.social               { position: absolute; display: block; left: 600px; top: 30px; width: 350px; overflow: hidden; height: 50px;}
+.ad                   {position: relative; top: -15px;left: 90px}
+.ad .noteless         {background: url("http://abetterbrowser.s3.amazonaws.com/images/noteless_ad.png") no-repeat; height: 126px; width: 285px; display: block; position: absolute;}
+
+.social               { position: absolute; display: block; left: 550px; top: 15px; width: 350px; overflow: hidden; height: 70px;}
 .social .twitter,
 .social .google,
-.social .facebook     { position: absolute; display: block; top: 0px; }
+.social .facebook     { position: absolute; display: block; }
 
-.social .twitter      { left: 0px; }
-.social .google       { left: 120px; }
-.social .facebook     { left: 200px; }
+.social .twitter      { left: 0px; top: 0px; }
+.social .google       { left: 115px; top: 0px; color: #EEE;}
+.social .facebook     { left: 0; top: 35px; }
 
-.footer               { text-align: center; position: relative; }
+.footer               { text-align: center; position: relative; top:160px; }
 .footer ul            { margin-bottom: 15px; }
 .footer ul li         { display: inline; list-style: none; margin-right: 20px; }
 .footer a,

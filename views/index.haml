@@ -4,7 +4,6 @@
     %title= t.main.title
     %link{ :rel => "stylesheet", :type => "text/css", :href => "css/reset.css" }
     %link{ :rel => "stylesheet", :type => "text/css", :href => "css/screen.css" }
-    %link{ :rel => "stylesheet", :type => "text/css", :href => "css/png_fix.css"}
     
     /[if IE 6]
       %link{ :rel => "stylesheet", :type => "text/css", :href => "css/ie6.css"}
@@ -18,7 +17,6 @@
     %meta{ :name => "Description", :content => "A simple landing page with a simple call to action. Please choose a better browser now. It's time we put Internet Explorer in the recycle bin."} 
     %meta{ :name => "Keywords", :content => "IE6, IE7, IE8, Internet Explorer, Browser, A Better Browser, Firefox, Chrome, Opera, Safari" }
     
-    %script{ :type => "text/javascript", :src => "code/abetterbrowser.js" }
     %script{ :type => "text/javascript", :src => "http://use.typekit.com/pvj7jrd.js" }
     :javascript
       try{Typekit.load();}catch(e){}
@@ -55,13 +53,15 @@
       .wrapper
         %p= t.main.ie6
 
-        %a.chrome.png{ :href => "http://www.google.com/chrome", :target => "_blank" } Google Chrome
-        %a.firefox.png{ :href => "http://www.firefox.com", :target => "_blank" } Mozilla Firefox
-        %a.safari.png{ :href => "http://www.apple.com/safari/download", :target => "_blank" } Apple Safari
-        %a.opera.png{ :href => "http://www.opera.com/download", :target => "_blank" } Opera
+        %a.chrome{ :href => "http://www.google.com/chrome", :target => "_blank" } Google Chrome
+        %a.firefox{ :href => "http://www.firefox.com", :target => "_blank" } Mozilla Firefox
+        %a.safari{ :href => "http://www.apple.com/safari/download", :target => "_blank" } Apple Safari
+        %a.opera{ :href => "http://www.opera.com/download", :target => "_blank" } Opera
     .wrapper
+      .ad
+        %a.noteless{ :href => "http://bit.ly/noteless_abb", :target => "_blank" }
       .meh
-        %a.icon.png{ :href => "http://windows.microsoft.com/en-US/internet-explorer/downloads/ie", :target => "_blank" }
+        %a.icon{ :href => "http://windows.microsoft.com/en-US/internet-explorer/downloads/ie", :target => "_blank" }
         %p= t.main.ie_lover
         
       .social
@@ -78,34 +78,35 @@
               
             
         
-    .wrapper.footer
-      %ul
-        %li
-          %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.design
-        %li
-          %a{ :href => "https://github.com/ejc/abetterbrowser.org", :target => "_blank"}= t.credits.site_source
-      %ul.translation.first
-        %li= t.credits.translation
-        %li
-          %a{ :href => "http://zacparker.com", :target => "_blank"}= t.credits.spanish
-        %li
-          %a{ :href => "#"}= t.credits.french
-        %li
-          %a{ :href => "http://twitter.com/jubstuff", :target => "_blank"}= t.credits.italian
-        %li
-          %a{ :href => "http://erikfischerphotography.com", :target => "_blank"}= t.credits.german
+    .wrapper
+      .footer
+        %ul
+          %li
+            %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.design
+          %li
+            %a{ :href => "https://github.com/ejc/abetterbrowser.org", :target => "_blank"}= t.credits.site_source
+        %ul.translation.first
+          %li= t.credits.translation
+          %li
+            %a{ :href => "http://zacparker.com", :target => "_blank"}= t.credits.spanish
+          %li
+            %a{ :href => "#"}= t.credits.french
+          %li
+            %a{ :href => "http://twitter.com/jubstuff", :target => "_blank"}= t.credits.italian
+          %li
+            %a{ :href => "http://erikfischerphotography.com", :target => "_blank"}= t.credits.german
           
-      %ul.translation.second
-        %li
-          %a{ :href => "http://twitter.com/marek"}= t.credits.czech
-        %li
-          %a{ :href => "http://twitter.com/npantos"}= t.credits.serbian
-        %li
-          %a{ :href => "http://mkautzmann.com.br"}= t.credits.portuguesebr
-        %li
-          %a{ :href => "http://twitter.com/xkeeper"}= t.credits.russian
-      %p.contribute
-        %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.contribute + " @ejc"
+        %ul.translation.second
+          %li
+            %a{ :href => "http://twitter.com/marek"}= t.credits.czech
+          %li
+            %a{ :href => "http://twitter.com/npantos"}= t.credits.serbian
+          %li
+            %a{ :href => "http://mkautzmann.com.br"}= t.credits.portuguesebr
+          %li
+            %a{ :href => "http://twitter.com/xkeeper"}= t.credits.russian
+        %p.contribute
+          %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.contribute + " @ejc"
 
           
   :javascript

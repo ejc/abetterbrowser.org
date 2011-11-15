@@ -14,6 +14,7 @@
 .meh .icon        { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie/ie6_icon_ie.gif") no-repeat; }
 .meh .icon:hover  { background-position: 0 0; }
 
+.ad .noteless     {background: url("http://abetterbrowser.s3.amazonaws.com/images/ie/ie6_noteless_ad.gif") no-repeat;}
 
 .footer .logo     { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie/ie6_icon_ej.gif") no-repeat; }
 
