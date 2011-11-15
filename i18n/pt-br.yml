@@ -8,7 +8,7 @@ menu:
   czech: "Tcheco"
   serbian: "Sérvio"
   portuguesebr: "Português Brasileiro"
-  russian: "Русский"
+  russian: "Russo"
 
 main:
   title: "Chegou a hora de escolher um navegador melhor"
@@ -28,5 +28,6 @@ credits:
   czech: "Tcheco por Marek Hrabě"
   serbian: "Sérvio por Nemanja Pantoš"
   portuguesebr: "Português Brasileiro por Matheus R. Kautzmann"
+  russian: "Russo por Xkeeper"
   site_source: "Código no GitHub"
   contribute: "Se você gostaria de enviar novas traduções fale comigo no Twitter"

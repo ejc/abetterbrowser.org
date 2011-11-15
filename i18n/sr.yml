@@ -8,7 +8,7 @@ menu:
   czech: "чешки"
   serbian: "Српски"
   portuguesebr: "бразилски португалски"
-  russian: "Русский"
+  russian: "руски"
 
 
 main:
@@ -29,5 +29,6 @@ credits:
   czech: "чешки: Marek Hrabě"
   serbian: "Српски: Немања Пантош"
   portuguesebr: "бразилски португалски: Matheus R. Kautzmann"
+  russian: "руски: Xkeeper"
   site_source: "Код на GitHub-у"
   contribute: "Ако желите да обезбедите додатни превод, контактирајте ме на Twitter-у"

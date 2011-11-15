@@ -8,7 +8,7 @@ menu:
   czech: "Česky"
   serbian: "Srbsky"
   portuguesebr: "Brazilská Portugalština"
-  russian: "Русский"
+  russian: "Rus"
 
 
 main:
@@ -29,5 +29,6 @@ credits:
   czech: "Čeština – Marek Hrabě"
   serbian: "Srbština – Nemanja Pantoš"
   portuguesebr: "Brazilská Portugalština - Matheus R. Kautzmann"
+  russian: "Rus - Xkeeper"
   site_source: "Zdroják na GitHubu"
   contribute: "Pokud chcete přidat svůj vlastní překlad, dejte mi vědět na Twitteru"

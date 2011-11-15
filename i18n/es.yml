@@ -8,7 +8,7 @@ menu:
   czech: "Checo"
   serbian: "Serbio"
   portuguesebr: "Portugués de Brasil"
-  russian: "Русский"
+  russian: "Ruso"
   
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
@@ -28,5 +28,6 @@ credits:
   czech: "Checo por Marek Hrabě"
   serbian: "Serbio por Nemanja Pantoš"
   portuguesebr: "Portugués de Brasil por Matheus R. Kautzmann"
+  russian: "Ruso por Xkeeper"
   site_source: "Codigo en GitHub"
   contribute: "Sí te gustaría traducir Un Mejor Navegador a otro idioma, por favor contactame en Twitter"

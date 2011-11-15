@@ -8,7 +8,7 @@ menu:
   czech: "Czech"
   serbian: "Serbian"
   portuguesebr: "Brazilian Portuguese"
-  russian: "Русский"
+  russian: "Russian"
 
 main:
   title: "It's Time to Choose A Better Browser"
@@ -28,5 +28,6 @@ credits:
   czech: "Czech by Marek Hrabě"
   serbian: "Serbian by Nemanja Pantoš"
   portuguesebr: "Brazilian Portuguese by Matheus R. Kautzmann"
+  russian: "Russian by Xkeeper"
   site_source: "Code on GitHub"
   contribute: "If you would like to provide additional translations ping me on Twitter"
