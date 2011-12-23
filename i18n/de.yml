@@ -9,6 +9,7 @@ menu:
   serbian: "Serbisch"
   portuguesebr: "Brasilianisches Portugiesisch"
   russian: "Russisch"
+  polish: "Polnisch"
 
 main:
   title: "Es ist Zeit, einen besseren Browser zu wählen"
@@ -29,5 +30,6 @@ credits:
   serbian: "Serbisch von Nemanja Pantoš"
   portuguesebr: "Brasilianisches Portugiesisch von Matheus R. Kautzmann"
   russian: "Russisch von Xkeeper"
+  polish: "Polnisch von Kuba B."
   site_source: "Code auf GitHub"
   contribute: "Wenn Sie eine weitere Übersetzung hinzufügen möchten, können Sie mich via Twitter erreichen:"

@@ -9,6 +9,7 @@ menu:
   serbian: "Sérvio"
   portuguesebr: "Português Brasileiro"
   russian: "Russo"
+  polish: "Polonês"
 
 main:
   title: "Chegou a hora de escolher um navegador melhor"
@@ -29,5 +30,6 @@ credits:
   serbian: "Sérvio por Nemanja Pantoš"
   portuguesebr: "Português Brasileiro por Matheus R. Kautzmann"
   russian: "Russo por Xkeeper"
+  polish: "Polonês por Kuba B."
   site_source: "Código no GitHub"
   contribute: "Se você gostaria de enviar novas traduções fale comigo no Twitter"
