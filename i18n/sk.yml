@@ -1,0 +1,36 @@
+menu:
+  languages: "Lepší prehliadač v iných jazykoch:"
+  english: "Anglicky"
+  spanish: "Španielsky"
+  french: "Francúzsky"
+  italian: "Taliansky"
+  german: "Nemecky"
+  czech: "Česky"
+  slovak: "Slovensky"
+  serbian: "Srbsky"
+  portuguesebr: "Portugalsky"
+  russian: "Rusky"
+
+
+main:
+  title: "Je čas zvoliť Lepší Prehliadač"
+  intro: "Nastal čas zvoliť si"
+  headline: "Lepší Prehliadač"
+  tagline: "Kvôli bezpečnosti. Kvôli kompatibilite. Kvôli ľudskosti"
+  ie6: "Prehliadač Internet Explorer 6 bol vydaný 27. augusta 2001 a dnes je už veľmi zastaraný. Prosím zvoľťe si jeden z následujúcich:"
+  ie_lover: "Stále se nedokážete odpútať od Internet Explorera? Aj on už má trochu lepšiu veziu"
+  
+credits:
+  translation: "Preklady"
+  design: "Dizajn – E.J. Coughlin"
+  spanish: "Španiečina – Zac Parker"
+  french: "Francúzština – Nourredine Seddik"
+  italian: "Taliančina – Giustino Borzacchiello"
+  german: "Nemčina – Erik Fischer a Fabian Beiner"
+  czech: "Čeština – Marek Hrabě"
+  slovak: "Slovenčina - Jaroslav Košťál"
+  serbian: "Srbština – Nemanja Pantoš"
+  portuguesebr: "Brazílska Portugalčina - Matheus R. Kautzmann"
+  russian: "Ruština - Xkeeper"
+  site_source: "Zdrojáky na GitHube"
+  contribute: "Ak chcete pridať svoj vlasntý preklad, dajte mi vedieť na Twitteri"

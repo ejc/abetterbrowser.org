@@ -1,4 +1,4 @@
-menu:
+﻿menu:
   languages: "Лучший Браузер на других языках:"
   english: "English"
   spanish: "Spanish"
@@ -6,6 +6,7 @@ menu:
   italian: "Italian"
   german: "German"
   czech: "Czech"
+  slovak: "Slovak"
   serbian: "Serbian"
   portuguesebr: "Brazilian Portuguese"
   russian: "Русский"
@@ -26,6 +27,7 @@ credits:
   italian: "Итальянский - Giustino Borzacchiello"
   german: "Немецкий - Erik Fischer and Fabian Beiner"
   czech: "Чешский - Marek Hrabě"
+  slovak: "Словацкий - Jaroslav Košťál"
   serbian: "Сербский - Nemanja Pantoš"
   portuguesebr: "Португальский - Matheus R. Kautzmann"
   russian: "Русский - Xkeeper"
