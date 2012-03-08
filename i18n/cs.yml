@@ -6,9 +6,10 @@ menu:
   italian: "Italsky"
   german: "Německy"
   czech: "Česky"
+  slovak: "Slovensky"
   serbian: "Srbsky"
   portuguesebr: "Brazilská Portugalština"
-  russian: "Rus"
+  russian: "Rusky"
 
 
 main:
@@ -27,6 +28,7 @@ credits:
   italian: "Italština – Giustino Borzacchiello"
   german: "Němčina – Erik Fischer a Fabian Beiner"
   czech: "Čeština – Marek Hrabě"
+  slovak: "Slovenština - Jaroslav Košťál"
   serbian: "Srbština – Nemanja Pantoš"
   portuguesebr: "Brazilská Portugalština - Matheus R. Kautzmann"
   russian: "Rus - Xkeeper"

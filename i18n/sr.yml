@@ -1,4 +1,4 @@
-menu:
+﻿menu:
   languages: "Бољи браузер на осталим језицима:"
   english: "Енглески"
   spanish: "Шпански"
@@ -6,6 +6,7 @@ menu:
   italian: "Италијански"
   german: "Немачки"
   czech: "чешки"
+  slovak: "Словачки"
   serbian: "Српски"
   portuguesebr: "бразилски португалски"
   russian: "руски"
@@ -27,6 +28,7 @@ credits:
   italian: "Италијански: Giustino Borzacchiello"
   german: "Немачки: Erik Fischer + Fabian Beiner"
   czech: "чешки: Marek Hrabě"
+  slovak: "Словачки: Jaroslav Košťál"
   serbian: "Српски: Немања Пантош"
   portuguesebr: "бразилски португалски: Matheus R. Kautzmann"
   russian: "руски: Xkeeper"
