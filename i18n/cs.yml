@@ -9,7 +9,7 @@ menu:
   serbian: "Srbsky"
   portuguesebr: "Brazilská Portugalština"
   russian: "Rus"
-
+  polish: "Polský"
 
 main:
   title: "Je čas zvolit Lepší Prohlížeč"
@@ -30,5 +30,6 @@ credits:
   serbian: "Srbština – Nemanja Pantoš"
   portuguesebr: "Brazilská Portugalština - Matheus R. Kautzmann"
   russian: "Rus - Xkeeper"
+  polish: "Polský - Kuba B."
   site_source: "Zdroják na GitHubu"
   contribute: "Pokud chcete přidat svůj vlastní překlad, dejte mi vědět na Twitteru"

@@ -9,6 +9,7 @@ menu:
   serbian: "Serbes"
   portuguesebr: "Le Portugais Brésilien"
   russian: "Russes"
+  polish: "Polonais"
 
 main:
   title: "Il est temps de choisir un meilleur navigateur"
@@ -29,5 +30,6 @@ credits:
   serbian: "Serbes de Nemanja Pantoš"
   portuguesebr: "Le Portugais Brésilien de Matheus R. Kautzmann"
   russian: "Russes de Xkeeper"
+  polish: "Polonais de Kuba B."
   site_source: "Code sur GitHub"
   contribute: "Vous souhaitez traduire dans d'autres langues, contactez moi sur Twitter"
