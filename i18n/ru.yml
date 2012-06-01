@@ -9,6 +9,7 @@ menu:
   serbian: "Serbian"
   portuguesebr: "Brazilian Portuguese"
   russian: "Русский"
+  polish: "Polish"
 
 main:
   title: "Настало время выбрать современный браузер!"
@@ -29,5 +30,6 @@ credits:
   serbian: "Сербский - Nemanja Pantoš"
   portuguesebr: "Португальский - Matheus R. Kautzmann"
   russian: "Русский - Xkeeper"
+  polish: "Польский - Kuba B."
   site_source: "Исходники на GitHub"
   contribute: "Если вы хотите помочь с переводом - обратитесь ко мне в Твиттер"

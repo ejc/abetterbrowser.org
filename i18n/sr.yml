@@ -9,7 +9,7 @@ menu:
   serbian: "Српски"
   portuguesebr: "бразилски португалски"
   russian: "руски"
-
+  polish: "Пољски"
 
 main:
   title: "Време је да изаберете бољи браузер"
@@ -30,5 +30,6 @@ credits:
   serbian: "Српски: Немања Пантош"
   portuguesebr: "бразилски португалски: Matheus R. Kautzmann"
   russian: "руски: Xkeeper"
+  polish: "Пољски: Kuba B."
   site_source: "Код на GitHub-у"
   contribute: "Ако желите да обезбедите додатни превод, контактирајте ме на Twitter-у"

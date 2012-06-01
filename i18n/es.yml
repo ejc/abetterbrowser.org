@@ -9,6 +9,7 @@ menu:
   serbian: "Serbio"
   portuguesebr: "Portugués de Brasil"
   russian: "Ruso"
+  polish: "Polaco"
   
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
@@ -29,5 +30,6 @@ credits:
   serbian: "Serbio por Nemanja Pantoš"
   portuguesebr: "Portugués de Brasil por Matheus R. Kautzmann"
   russian: "Ruso por Xkeeper"
+  polish: "Polaco por Kuba B."
   site_source: "Codigo en GitHub"
   contribute: "Sí te gustaría traducir Un Mejor Navegador a otro idioma, por favor contactame en Twitter"
