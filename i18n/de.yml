@@ -10,6 +10,7 @@ menu:
   portuguesebr: "Brasilianisches Portugiesisch"
   russian: "Russisch"
   polish: "Polnisch"
+  dutch: "Niederländisch"
 
 main:
   title: "Es ist Zeit, einen besseren Browser zu wählen"
@@ -31,5 +32,6 @@ credits:
   portuguesebr: "Brasilianisches Portugiesisch von Matheus R. Kautzmann"
   russian: "Russisch von Xkeeper"
   polish: "Polnisch von Kuba B."
+  dutch: "Niederländisch von Ruben van Os"
   site_source: "Code auf GitHub"
   contribute: "Wenn Sie eine weitere Übersetzung hinzufügen möchten, können Sie mich via Twitter erreichen:"
