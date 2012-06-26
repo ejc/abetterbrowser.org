@@ -10,6 +10,7 @@ menu:
   portuguesebr: "Portoghese Brasiliano"
   russian: "Russo"
   polish: "Polacco"
+  dutch: "Olandese"
 
 main:
   title: "È tempo di scegliere Un Browser Migliore"
@@ -31,5 +32,6 @@ credits:
   portuguesebr: "Portoghese Brasiliano a cura di Matheus R. Kautzmann"
   russian: "Russo a cura di Xkeeper"
   polish: "Polacco a cura di Kuba B."
+  dutch: "Olandese a cura di Ruben van Os"
   site_source: "Codice su GitHub"
   contribute: "Se vuoi aggiungere altre traduzioni, contattami su Twitter"

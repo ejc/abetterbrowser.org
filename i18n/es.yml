@@ -10,6 +10,7 @@ menu:
   portuguesebr: "Portugués de Brasil"
   russian: "Ruso"
   polish: "Polaco"
+  dutch: "Holandés"
   
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
@@ -31,5 +32,6 @@ credits:
   portuguesebr: "Portugués de Brasil por Matheus R. Kautzmann"
   russian: "Ruso por Xkeeper"
   polish: "Polaco por Kuba B."
+  dutch: "Holandés por Ruben van Os"
   site_source: "Codigo en GitHub"
   contribute: "Sí te gustaría traducir Un Mejor Navegador a otro idioma, por favor contactame en Twitter"

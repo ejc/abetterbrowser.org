@@ -10,6 +10,7 @@ menu:
   polish: "Polski"
   portuguesebr: "Brazylijski portugalski"
   russian: "Rosyjski"
+  dutch: "Księżna"
 
 main:
   title: "Czas wybrać Lepszą Przeglądarkę"
@@ -31,5 +32,6 @@ credits:
   portuguesebr: "Brazylijski portugalski - Matheus R. Kautzmann"
   russian: "Rosyjski - Xkeeper"
   polish: "Polski - Kuba B."
+  dutch: "Księżna - Ruben van Os"
   site_source: "Kod na GitHubie"
   contribute: "Jeśli chciałbyś udostępnić dodatkowe tłumaczenie, znajdź mnie na Twitterze @ejc "

@@ -10,6 +10,7 @@ menu:
   portuguesebr: "Português Brasileiro"
   russian: "Russo"
   polish: "Polonês"
+  dutch: "Holandesa"
 
 main:
   title: "Chegou a hora de escolher um navegador melhor"
@@ -31,5 +32,6 @@ credits:
   portuguesebr: "Português Brasileiro por Matheus R. Kautzmann"
   russian: "Russo por Xkeeper"
   polish: "Polonês por Kuba B."
+  dutch: "Holandesa por Ruben van Os"
   site_source: "Código no GitHub"
   contribute: "Se você gostaria de enviar novas traduções fale comigo no Twitter"
