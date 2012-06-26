@@ -10,7 +10,7 @@ menu:
   portuguesebr: "Brazilian Portuguese"
   russian: "Русский"
   polish: "Polish"
-  dutch: "голландский язык"
+  dutch: "Dutch"
 
 main:
   title: "Настало время выбрать современный браузер!"
@@ -32,6 +32,6 @@ credits:
   portuguesebr: "Португальский - Matheus R. Kautzmann"
   russian: "Русский - Xkeeper"
   polish: "Польский - Kuba B."
-  dutch: "голландский язык: Ruben van Os"
+  dutch: "голландский: Ruben van Os"
   site_source: "Исходники на GitHub"
   contribute: "Если вы хотите помочь с переводом - обратитесь ко мне в Твиттер"
