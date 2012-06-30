@@ -12,6 +12,8 @@
   russian: "руски"
   polish: "Пољски"
   turkish: "Türkçe"
+  dutch: "Холандски"
+
 
 main:
   title: "Време је да изаберете бољи браузер"
@@ -34,5 +36,6 @@ credits:
   portuguesebr: "бразилски португалски: Matheus R. Kautzmann"
   russian: "руски: Xkeeper"
   polish: "Пољски: Kuba B."
+  dutch: "Холандски: Ruben van Os"
   site_source: "Код на GitHub-у"
   contribute: "Ако желите да обезбедите додатни превод, контактирајте ме на Twitter-у"

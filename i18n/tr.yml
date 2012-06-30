@@ -12,6 +12,7 @@ menu:
   russian: "Rusça"
   polish: "Polski"
   turkish: "Türkçe"
+  dutch: "Flemenkçe"
 
 main:
   title: "Daha İyi Bir Tarayıcı Seçme Vakti"
@@ -32,5 +33,6 @@ credits:
   serbian: "Sırpça: Nemanja Pantoš"
   portuguesebr: "Brezilya Portekizcesi: Matheus R. Kautzmann"
   russian: "Rusça: Xkeeper"
+  dutch: "Flemenkçe: Ruben van Os"
   site_source: "Kodlar GitHub'da"
   contribute: "Yeni çeviriler eklemek istiyorsanız beni Twitter'dan dürtün:"

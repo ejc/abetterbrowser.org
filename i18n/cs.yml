@@ -11,7 +11,7 @@ menu:
   portuguesebr: "Brazilská Portugalština"
   polish: "Polský"
   russian: "Rusky"
-
+  dutch: "Holandský"
 
 main:
   title: "Je čas zvolit Lepší Prohlížeč"
@@ -34,5 +34,6 @@ credits:
   portuguesebr: "Brazilská Portugalština - Matheus R. Kautzmann"
   russian: "Rus - Xkeeper"
   polish: "Polský - Kuba B."
+  dutch: "Holandský - Ruben van Os"
   site_source: "Zdroják na GitHubu"
   contribute: "Pokud chcete přidat svůj vlastní překlad, dejte mi vědět na Twitteru"

@@ -12,6 +12,7 @@ menu:
   russian: "Russian"
   polish: "Polish"
   turkish: "Turkish"
+  dutch: "Dutch"
 
 main:
   title: "It's Time to Choose A Better Browser"
@@ -34,5 +35,6 @@ credits:
   portuguesebr: "Brazilian Portuguese by Matheus R. Kautzmann"
   russian: "Russian by Xkeeper"
   polish: "Polish by Kuba B."
+  dutch: "Dutch by Ruben van Os"
   site_source: "Code on GitHub"
   contribute: "If you would like to provide additional translations ping me on Twitter"

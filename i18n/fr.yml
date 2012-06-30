@@ -11,6 +11,7 @@ menu:
   portuguesebr: "Le Portugais Brésilien"
   russian: "Russes"
   polish: "Polonais"
+  dutch: "Néerlandais"
 
 main:
   title: "Il est temps de choisir un meilleur navigateur"
@@ -33,5 +34,6 @@ credits:
   portuguesebr: "Le Portugais Brésilien de Matheus R. Kautzmann"
   russian: "Russes de Xkeeper"
   polish: "Polonais de Kuba B."
+  dutch: "Néerlandais de Ruben van Os"
   site_source: "Code sur GitHub"
   contribute: "Vous souhaitez traduire dans d'autres langues, contactez moi sur Twitter"
