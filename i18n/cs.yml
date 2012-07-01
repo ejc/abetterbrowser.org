@@ -9,9 +9,13 @@ menu:
   slovak: "Slovensky"
   serbian: "Srbsky"
   portuguesebr: "Brazilská Portugalština"
-  polish: "Polský"
   russian: "Rusky"
+  polish: "Polský"
+  turkish: "Türkçe"
   dutch: "Holandský"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Je čas zvolit Lepší Prohlížeč"

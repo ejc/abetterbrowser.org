@@ -13,7 +13,9 @@
   polish: "Пољски"
   turkish: "Türkçe"
   dutch: "Холандски"
-
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Време је да изаберете бољи браузер"

@@ -13,6 +13,9 @@ menu:
   polish: "Polnisch"
   turkish: "Turkish"
   dutch: "Niederländisch"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Es ist Zeit, einen besseren Browser zu wählen"

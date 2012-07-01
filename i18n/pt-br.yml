@@ -12,6 +12,10 @@ menu:
   russian: "Russo"
   polish: "Polonês"
   dutch: "Holandês"
+  turkish: "Turkish"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Chegou a hora de escolher um navegador melhor"

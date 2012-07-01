@@ -6,12 +6,16 @@ menu:
   italian: "意大利語"
   german: "德語"
   czech: "捷克語"
+  slovak: "Словачки"
   serbian: "塞爾維亞語"
   portuguesebr: "葡萄牙語"
   russian: "俄語"
   polish: "波蘭語"
-  traditional chinese: "繁體中文"
-  simplified chinese: "簡體中文"
+  turkish: "Türkçe"
+  dutch: "Flemenkçe"
+  japanese: "Japanese"
+  traditional_chinese: "繁體中文"
+  simplified_chinese: "簡體中文"
 
 main:
   title: "該是時候選擇一個更優質的瀏覽器了"

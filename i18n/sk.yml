@@ -11,7 +11,11 @@ menu:
   portuguesebr: "Portugalsky"
   russian: "Rusky"
   polish: "Polski"
+  dutch: "dutch"
   turkish: "Türkçe"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Je čas zvoliť Lepší Prehliadač"

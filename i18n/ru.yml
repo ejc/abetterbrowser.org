@@ -12,6 +12,10 @@
   russian: "Русский"
   polish: "Polish"
   dutch: "Dutch"
+  turkish: "Türkçe"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Настало время выбрать современный браузер!"

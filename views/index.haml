@@ -24,7 +24,6 @@
   %body
     .menu
       %ul
-        %li= t.menu.languages
         %li
           %a{:href => "/"}= t.menu.english
         %li
@@ -45,8 +44,18 @@
           %a{:href => "/pt-br"}= t.menu.portuguesebr
         %li
           %a{:href => "/ru"}= t.menu.russian
-		%li
+        %li
           %a{:href => "/pl"}= t.menu.polish
+        %li
+          %a{:href => "/tr"}= t.menu.turkish
+        %li
+          %a{:href => "/nl"}= t.menu.dutch
+        %li
+          %a{:href => "/ja"}= t.menu.japanese
+        %li
+          %a{:href => "/zh-cn"}= t.menu.traditional_chinese
+        %li
+          %a{:href => "/zh-hk"}= t.menu.simplified_chinese
           
     .wrapper
       %h3= t.main.intro
@@ -107,7 +116,7 @@
             %a{ :href => "http://jaro.kostal.sk"}= t.credits.slovak
           %li
             %a{ :href => "http://twitter.com/npantos"}= t.credits.serbian
-		  %li
+          %li
             %a{ :href => "http://im3.pl"}= t.credits.polish
           %li
             %a{ :href => "http://mkautzmann.com.br"}= t.credits.portuguesebr

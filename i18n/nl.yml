@@ -6,11 +6,16 @@ menu:
   italian: "Italiaans"
   german: "Duits"
   czech: "Tsjechisch"
+  slovak: "Slovacco"
   serbian: "Servisch"
   portuguesebr: "Braziliaans Portugees"
   russian: "Russisch"
   polish: "Pools"
+  turkish: "Turkish"
   dutch: "Nederlands"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Het Is Tijd Om Een Betere Browser te Kiezen"

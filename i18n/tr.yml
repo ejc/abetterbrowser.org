@@ -13,6 +13,9 @@ menu:
   polish: "Polski"
   turkish: "Türkçe"
   dutch: "Flemenkçe"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Daha İyi Bir Tarayıcı Seçme Vakti"

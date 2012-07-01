@@ -6,11 +6,16 @@ menu:
   italian: "Włoski"
   german: "Niemiecki"
   czech: "Czeski"
+  slovak: "Slovacco"
   serbian: "Serbski"
-  polish: "Polski"
   portuguesebr: "Brazylijski portugalski"
   russian: "Rosyjski"
+  polish: "Polski"
+  turkish: "Turkish"
   dutch: "Holenderski"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Czas wybrać Lepszą Przeglądarkę"

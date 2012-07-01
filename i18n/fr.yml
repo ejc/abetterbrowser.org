@@ -11,7 +11,11 @@ menu:
   portuguesebr: "Le Portugais Brésilien"
   russian: "Russes"
   polish: "Polonais"
+  turkish: "Türkçe"
   dutch: "Néerlandais"
+  japanese: "Japanese"
+  traditional_chinese: "Trad Chinese"
+  simplified_chinese: "Simp Chinese"
 
 main:
   title: "Il est temps de choisir un meilleur navigateur"
