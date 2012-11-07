@@ -57,7 +57,8 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .footer .translation a,
 .footer .translation li     { font-size: 12px; font-weight: normal; color: #201e1c;}
 .footer .translation.first  { margin-bottom: 11px; }
-.footer .translation.second { margin-bottom: 40px; }
+.footer .translation.second { margin-bottom: 11px; }
+.footer .translation.third  { margin-bottom: 40px; }
 
 /* Headlines */
 h1, h2, h3            { width: 100%; text-align: center; margin: 0; text-shadow: -1px -1px 0 rgba(0,0,0,.4); }
