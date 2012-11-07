@@ -5,6 +5,6 @@ require 'abb'
 
 set :root, path
 set :views, path + '/views'
-set :public, path + '/public'
+set :public_folder, path + '/public'
  
 run Sinatra::Application
