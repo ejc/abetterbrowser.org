@@ -32,19 +32,19 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .meh .icon:hover      { background-position: 0px -40px; }
 .meh p                { padding-left: 55px; padding-top: 10px;}
 
-.ad                   {position: relative; top: -15px;left: 90px;height:126px;display:block;width:285px;}
-.ad .noteless         {background: url("http://abetterbrowser.s3.amazonaws.com/images/noteless_ad.png") no-repeat; height: 126px; width: 285px; display: block; position: absolute;}
+.ad                   {position: relative; top: 30px; display: block; width: 100%; text-align: center; height: 110px; }
 
-.social               { position: absolute; display: block; left: 550px; top: 15px; width: 350px; overflow: hidden; height: 70px;}
+.social               { position: relative; display: block; top: 55px; width: 100%; overflow: hidden; height: 70px; }
 .social .twitter,
 .social .google,
 .social .facebook     { position: absolute; display: block; }
 
-.social .twitter      { left: 0px; top: 0px; }
-.social .google       { left: 115px; top: 0px; color: #EEE;}
-.social .facebook     { left: 0; top: 35px; }
+.social .twitter      { left: 200px; top: 0px; }
+.social .google       { left: 560px; top: 0px; }
+.social .google *     { color: #FFF; }
+.social .facebook     { left: 356px; top: 0px; }
 
-.footer               { text-align: center; position: relative; top:40px; }
+.footer               { text-align: center; position: relative; top:0; }
 .footer ul            { margin-bottom: 15px; }
 .footer ul li         { list-style: none; display: inline; }
 .footer a,
