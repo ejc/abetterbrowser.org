@@ -16,7 +16,8 @@ menu:
   japanese: "Japanese"
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
-
+  swedish: "Swedish"
+  
 main:
   title: "Czas wybrać Lepszą Przeglądarkę"
   intro: "Nadszedł czas dla Ciebie, abyś wybrał"
@@ -26,6 +27,7 @@ main:
   ie_lover: "Nie możesz się uwolnić od Internet Explorera? On też ma troszkę nowsze wersje... "
   
 credits:
+  credits:     "Credits"
   translation: "Przekłady"
   design: "Zaprojektował E.J. Coughlin"
   spanish: "Hiszpański - Zac Parker"
@@ -38,5 +40,10 @@ credits:
   russian: "Rosyjski - Xkeeper"
   polish: "Polski - Kuba B."
   dutch: "Holenderski - Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Kod na GitHubie"
-  contribute: "Jeśli chciałbyś udostępnić dodatkowe tłumaczenie, znajdź mnie na Twitterze @ejc "
+  contribute: "Jeśli chciałbyś udostępnić dodatkowe tłumaczenie, znajdź mnie na Twitterze "

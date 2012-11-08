@@ -16,7 +16,8 @@
   japanese: "Japanese"
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
-
+  swedish: "Swedish"
+  
 main:
   title: "Настало время выбрать современный браузер!"
   intro: "Пришло время выбрать"
@@ -26,6 +27,7 @@ main:
   ie_lover: "Не можете отказаться от Internet Explorer? Здесь можно скачать более современную версию..."
 
 credits:
+  credits:     "Credits"
   translation: "Перевод:"
   design: "Дизайн - E.J. Coughlin"
   spanish: "Испанский - Zac Parker"
@@ -39,5 +41,10 @@ credits:
   russian: "Русский - Xkeeper"
   polish: "Польский - Kuba B."
   dutch: "голландский: Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Исходники на GitHub"
   contribute: "Если вы хотите помочь с переводом - обратитесь ко мне в Твиттер"

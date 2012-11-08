@@ -16,6 +16,7 @@ menu:
   japanese: "Japanese"
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
+  swedish: "Swedish"
   
 main:
   title: "Es Hora de Elegir un Mejor Navegador"
@@ -26,6 +27,7 @@ main:
   ie_lover: "No puedes dejar de usar Internet Explorer? También hay una versión un poco mejor que IE6..."
 
 credits:
+  credits:     "Credits"
   translation: "Traducción"
   design: "Diseñado por E.J. Coughlin"
   spanish: "Español por Zac Parker"
@@ -39,5 +41,10 @@ credits:
   russian: "Ruso por Xkeeper"
   polish: "Polaco por Kuba B."
   dutch: "Holandés por Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Codigo en GitHub"
   contribute: "Sí te gustaría traducir Un Mejor Navegador a otro idioma, por favor contactame en Twitter"

@@ -16,7 +16,8 @@ menu:
   japanese: "Japanese"
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
-
+  swedish: "Swedish"
+  
 main:
   title: "A Better Browser を選ぶのは今！"
   intro: "今こそまともなブラウザに乗り換えましょう！"
@@ -26,6 +27,7 @@ main:
   ie_lover: "どうしても Internet Explorer から乗り換えられませんか？多少はマシなバージョンがあるのでそちらをお使いください……。"
   
 credits:
+  credits:     "Credits"
   translation: "翻訳"
   design: "E.J. Coughlin (デザイン)"
   spanish: "Zac Parker (スペイン語)"
@@ -37,5 +39,10 @@ credits:
   portuguesebr: "Matheus R. Kautzmann (ブラジルポルトガル語)"
   russian: "Xkeeper (ロシア語)"
   polish: "Kuba B. (ポーランド語)"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "GitHub (ソースコード)"
   contribute: "もし他の言語にも翻訳したいというのなら是非 Twitter で連絡してください:"

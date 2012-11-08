@@ -16,7 +16,8 @@ menu:
   japanese: "Japanese"
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
-
+  swedish: "Swedish"
+  
 main:
   title: "Je čas zvolit Lepší Prohlížeč"
   intro: "Nastal čas zvolit si"
@@ -26,6 +27,7 @@ main:
   ie_lover: "Stále se nedokážete odpoutat od Internet Exploreru? I on už má trochu lepší vezi"
   
 credits:
+  credits:     "Credits"
   translation: "Překlady"
   design: "Design – E.J. Coughlin"
   spanish: "Spanělština – Zac Parker"
@@ -39,5 +41,10 @@ credits:
   russian: "Rus - Xkeeper"
   polish: "Polský - Kuba B."
   dutch: "Holandský - Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Zdroják na GitHubu"
   contribute: "Pokud chcete přidat svůj vlastní překlad, dejte mi vědět na Twitteru"

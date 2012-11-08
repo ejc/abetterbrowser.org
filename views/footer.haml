@@ -1,0 +1,14 @@
+.wrapper
+  .footer
+    %ul
+      %li
+        %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.design
+      %li
+        %a{ :href => "https://github.com/ejc/abetterbrowser.org", :target => "_blank"}= t.credits.site_source
+      %li
+        %a{ :href => "/#{@locale}/credits"} Credits
+      
+    %p.contribute
+      %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.contribute + " @ejc"
+      
+= partial ("javascripts")

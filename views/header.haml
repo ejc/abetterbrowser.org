@@ -1,0 +1,71 @@
+!!!
+%html
+  %head
+    %title= t.main.title
+    %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/reset.css" }
+    %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/screen.css" }
+    %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/superfish.css" }
+    
+    /[if IE 6]
+      %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/ie6.css"}
+      
+    %meta{ :property => "og:title", :content => "It's time to choose a better browser." }
+    %meta{ :property => "og:url", :content => "http://abetterbrowser.org/" }
+    %meta{ :property => "og:image", :content => "http://abetterbrowser.s3.amazonaws.com/images/better_browser.jpg" }
+    %meta{ :property => "og:site_name", :content => "A Better Browser" }
+    %meta{ :property => "og:description", :content => " Every day, around the globe, millions of web pages are horribly disfigured. The cause of this tragedy is Microsoft Internet Explorer. You can help. If you or someone you know is using Internet Explorer, please, save a web page. Choose A Better Browser." }
+    
+    %meta{ :name => "Description", :content => "A simple landing page with a simple call to action. Please choose a better browser now. It's time we put Internet Explorer in the recycle bin."} 
+    %meta{ :name => "Keywords", :content => "IE6, IE7, IE8, Internet Explorer, Browser, A Better Browser, Firefox, Chrome, Opera, Safari" }
+    
+    %script{ :type => "text/javascript", :src => "http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"}
+    %script{ :type => "text/javascript", :src => "http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"}
+    %script{ :type => "text/javascript", :src => "/javascripts/hoverIntent.js"}
+    %script{ :type => "text/javascript", :src => "/javascripts/superfish.js"}
+    
+    %script{ :type => "text/javascript", :src => "http://use.typekit.com/pvj7jrd.js" }
+    :javascript
+      try{Typekit.load();}catch(e){}
+      
+  %body
+    .menu
+      .nav
+        %ul{:class => "sf-menu"}
+          %li
+            %a{:href => "/"}= t.menu.english
+          %li
+            %a{:href => "/zh-cn"}= t.menu.traditional_chinese
+          %li
+            %a{:href => "/zh-hk"}= t.menu.simplified_chinese
+          %li
+            %a{:href => "/es"}= t.menu.spanish
+          %li
+            %a{:href => "/ja"}= t.menu.japanese
+          %li
+            %a{:href => "/pt-br"}= t.menu.portuguesebr
+          %li
+            %a{:href => "/de"}= t.menu.german
+          %li
+            %a{:href => "/fr"}= t.menu.french
+          %li
+            %a{:href => "/ru"}= t.menu.russian
+          %li
+            %a{:href => "/it"}= t.menu.italian
+
+          %li
+            %a{:href => "#"} More
+            %ul
+              %li
+                %a{:href => "/cs"}= t.menu.czech
+              %li
+                %a{:href => "/sk"}= t.menu.slovak
+              %li
+                %a{:href => "/sr"}= t.menu.serbian
+              %li
+                %a{:href => "/pl"}= t.menu.polish
+              %li
+                %a{:href => "/tr"}= t.menu.turkish
+              %li
+                %a{:href => "/nl"}= t.menu.dutch
+              %li
+                %a{:href => "/sv"}= t.menu.swedish

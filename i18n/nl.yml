@@ -16,6 +16,7 @@ menu:
   japanese: "Japans"
   traditional_chinese: "Trad Chinees"
   simplified_chinese: "Simp Chinees"
+  swedish: "Swedish"
 
 main:
   title: "Het Is Tijd Om Een Betere Browser te Kiezen"
@@ -26,6 +27,7 @@ main:
   ie_lover: "Kan u geen gedag zeggen tegen Internet Explorer? Ook daar is een iets betere versie van..."
   
 credits:
+  credits:     "Credits"
   translation: "Vertaling"
   design: "Ontworpen door E.J. Coughlin"
   spanish: "Spaans door Zac Parker"
@@ -38,5 +40,10 @@ credits:
   russian: "Russisch door Xkeeper"
   polish: "Pools door Kuba B."
   dutch: "Nederlands door Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Code op GitHub"
   contribute: "Als u een vertaling of vertalingen toe wilt voegen, ping me dan op Twitter"

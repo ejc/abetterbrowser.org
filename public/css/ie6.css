@@ -1,14 +1,11 @@
 /* Images for an "image challenged" browser */
-.chrome, .firefox,
-.safari, .opera,
+.chrome, .firefox, .opera,
 .chrome:hover,
 .firefox:hover,
-.safari:hover, 
 .opera:hover      { background-position: 0 0;}
 
 .chrome           { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie/ie6_icon_chrome.gif") no-repeat;}
 .firefox          { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie/ie6_icon_firefox.gif") no-repeat;}
-.safari           { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie/ie6_icon_safari.gif") no-repeat;}
 .opera            { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie/ie6_icon_opera.gif") no-repeat; }
 
 .meh .icon        { background: url("http://abetterbrowser.s3.amazonaws.com/images/ie/ie6_icon_ie.gif") no-repeat; }

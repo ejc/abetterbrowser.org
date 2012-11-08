@@ -16,7 +16,8 @@ menu:
   japanese: "Japanese"
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
-
+  swedish: "Swedish"
+  
 main:
   title: "Daha İyi Bir Tarayıcı Seçme Vakti"
   intro: "Seçme vaktiniz geldi!"
@@ -26,6 +27,7 @@ main:
   ie_lover: "Internet Explorer'dan uzaklaşmaya çekiniyor musun? Onun da birazcık daha iyi bir sürümü mevcut..."
   
 credits:
+  credits: "Credits"
   translation: "Çeviriler"
   design: "Tasarım: E.J. Coughlin"
   spanish: "İspanyolca: Zac Parker"
@@ -37,5 +39,10 @@ credits:
   portuguesebr: "Brezilya Portekizcesi: Matheus R. Kautzmann"
   russian: "Rusça: Xkeeper"
   dutch: "Flemenkçe: Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Kodlar GitHub'da"
   contribute: "Yeni çeviriler eklemek istiyorsanız beni Twitter'dan dürtün:"

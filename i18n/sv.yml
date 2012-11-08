@@ -1,5 +1,5 @@
 menu:
-  languages: "\"En bättre webbläsare\" i andra språk:"
+  languages: "En bättre webbläsare i andra språk:"
   english: "Engelska"
   spanish: "Spanska"
   french: "Franska"
@@ -17,7 +17,7 @@ menu:
   traditional_chinese: "Trad. kinesiska"
   simplified_chinese: "Förenkl. kinesiska"
   swedish: "Svenska"
-
+  
 main:
   title: "Det är dags att välja en bättre webbläsare"
   intro: "Det har blivit dags för dig att välja"
@@ -27,6 +27,7 @@ main:
   ie_lover: "Kan du inte komma loss från Internet Explorer? Det finns en lite bättre version av den också..."
   
 credits:
+  credits: "Credits"
   translation: "Översättning"
   design: "Designad av E.J. Coughlin"
   spanish: "Spanska av Zac Parker"
@@ -40,6 +41,10 @@ credits:
   russian: "Ryska av Xkeeper"
   polish: "Polska av Kuba B."
   dutch: "Holländska av Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese av xyeal.com"
+  simplified_chinese: Simplified Chinese av xyeal.com"
   swedish: "Svenska av Christoffer Sawicki"
   site_source: "Kod på GitHub"
   contribute: "Pinga mig på Twitter om du vill översätta sidan till ytterligare något språk"

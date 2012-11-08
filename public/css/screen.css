@@ -1,29 +1,27 @@
 body            { background: url("http://abetterbrowser.s3.amazonaws.com/images/background.png"); }
-.wrapper        { width: 900px; padding: 20px; margin:0 auto; position: relative;}
+.wrapper        { width: 900px; padding: 20px; margin:0 auto; position: relative; display: block; clear: both;}
 
-.menu           { width: 100%; background: #6b645e; padding: 8px 0; margin-bottom: 20px; }
+.menu           { width: 100%; background: #6b645e; padding: 8px 0; margin-bottom: 20px; display: block; position: relative; height: 28px;}
 .menu li        { display: inline; margin-right: 20px; }
-.menu ul        { width: 900px; margin: 0 auto; text-align: center; }
+.menu ul        { text-align: center; }
 .menu li,
-.menu a         { color: #EEE; font-size: 11px; text-shadow: 0 -1px 0 rgba(0,0,0.4); }
+.menu a         { color: #EEE; font-size: 14px; text-shadow: 0 -1px 0 rgba(0,0,0.4); }
 .menu a         { text-decoration: none; }
 .menu a:hover   { text-decoration: underline; }
+.nav            { width: 1024px; margin: 0 auto; display: block; position : relative; }
 
 /* Browser Icons */
-.chrome, .firefox,
-.safari, .opera { width :200px ; height :200px; background: url("http://abetterbrowser.s3.amazonaws.com/images/icon_browsers.png") no-repeat; text-indent: -9000px; position: absolute; top: 60px }
+.chrome, .firefox, .opera { width :200px ; height :200px; background: url("http://abetterbrowser.s3.amazonaws.com/images/icon_browsers.png") no-repeat; text-indent: -9000px; position: absolute; top: 60px }
 
 .chrome,
-.firefox,
-.safari               { margin-right: 20px;}
+.firefox             { margin-right: 20px;}
 
-.chrome               { background-position: left top; left: 25px; }
+.chrome               { background-position: left top; left: 105px; }
 .chrome:hover         { background-position: left bottom; }
-.firefox              { background-position: -200px top; left: 260px; }
+.firefox              { background-position: -200px top; left: 370px; }
 .firefox:hover        { background-position: -200px bottom; }
-.safari               { background-position: -400px top; left: 490px; }
-.safari:hover         { background-position: -400px bottom; }
-.opera                { background-position: -600px top; left: 720px; }
+
+.opera                { background-position: -600px top; left: 630px; }
 .opera:hover          { background-position: -600px bottom; }
 
 .browsers             { width: 100%; background: url("http://abetterbrowser.s3.amazonaws.com/images/background_browsers.png"); height: 280px; margin-bottom: 20px; }
@@ -48,25 +46,37 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 
 .footer               { text-align: center; position: relative; top:40px; }
 .footer ul            { margin-bottom: 15px; }
-.footer ul li         { display: inline; list-style: none; margin-right: 20px; }
+.footer ul li         { list-style: none; display: inline; }
 .footer a,
-.footer li            { color: #201e1c; text-shadow: 0 1px 0 rgba(255,255,255,.2); text-decoration: none; font-weight: bold; font-size: 12px; }
+.footer li            { color: #201e1c; text-shadow: 0 1px 0 rgba(255,255,255,.2); text-decoration: none; font-weight: bold; font-size: 14px; margin-right: 30px;}
 .footer a:hover       { text-decoration: underline; }
 .footer .contribute a { font-size: 14px; text-indent: -30px; color: #393532;}
 .footer .translation,
 .footer .translation a,
-.footer .translation li     { font-size: 12px; font-weight: normal; color: #201e1c;}
+.footer .translation li     { font-size: 18px; font-weight: bold; color: #201e1c;}
 .footer .translation.first  { margin-bottom: 11px; }
 .footer .translation.second { margin-bottom: 11px; }
-.footer .translation.third  { margin-bottom: 40px; }
+
+.credits               { position: relative;height: 250px;}
+.credits ul            { margin-bottom: 15px; }
+.credits ul li         { list-style: none;}
+.credits a,
+.credits li            { color: #201e1c; text-shadow: 0 1px 0 rgba(255,255,255,.2); text-decoration: none; font-weight: bold; font-size: 18px; line-height: 24px; }
+
+
+
+.credits .column        { position: absolute; top: 0;}
+.credits .column.first  { width: 340px; left: 150px;}
+.credits .column.second { width: 450px; left: 500px;}
 
 /* Headlines */
-h1, h2, h3            { width: 100%; text-align: center; margin: 0; text-shadow: -1px -1px 0 rgba(0,0,0,.4); }
+h1, h2, h3, h4        { width: 100%; text-align: center; margin: 0; text-shadow: -1px -1px 0 rgba(0,0,0,.4); }
 h1                    { font-size: 6em; letter-spacing: -1px; color: #FFF;}
 
 h2                    { font-size: 1.3em; line-height: 1.8em; margin-bottom: 10px; }
 h3                    { font-size: 1em; line-height: 1.3em; margin-bottom: 15px;}
-h2, h3                { color: #252220; text-shadow: 0 1px 0 rgba(255,255,255,.3); }
+h4                    { font-size: 4em; line-height: 2.2em; margin-bottom: 30px;}
+h2, h3, h4            { color: #252220; text-shadow: 0 1px 0 rgba(255,255,255,.3); }
 
 
 /* Super Awesome 3D Text Effect from Mark Otto: http://markdotto.com/playground/3d-text */

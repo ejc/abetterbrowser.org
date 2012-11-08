@@ -16,7 +16,8 @@
   japanese: "Japanese"
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
-
+  swedish: "Swedish"
+  
 main:
   title: "Време је да изаберете бољи браузер"
   intro: "Дошло је време за Вас да изаберете"
@@ -26,6 +27,7 @@ main:
   ie_lover: "Не можете да побегнете од Internet Explorer-а? Постоји малко боља верзија и тога..."
   
 credits:
+  credits:     "Credits"
   translation: "Превод"
   design: "Дизајн: E.J. Coughlin"
   spanish: "Шпански: Zac Parker"
@@ -39,5 +41,10 @@ credits:
   russian: "руски: Xkeeper"
   polish: "Пољски: Kuba B."
   dutch: "Холандски: Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Код на GitHub-у"
   contribute: "Ако желите да обезбедите додатни превод, контактирајте ме на Twitter-у"

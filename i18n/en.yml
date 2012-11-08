@@ -27,6 +27,7 @@ main:
   ie_lover: "Can’t seem to pry yourself away from Internet Explorer? There’s a slightly better version of that too..."
   
 credits:
+  credits:     "Credits"
   translation: "Translation"
   design: "Designed by E.J. Coughlin"
   spanish: "Spanish by Zac Parker"
@@ -40,5 +41,10 @@ credits:
   russian: "Russian by Xkeeper"
   polish: "Polish by Kuba B."
   dutch: "Dutch by Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Code on GitHub"
   contribute: "If you would like to provide additional translations ping me on Twitter"

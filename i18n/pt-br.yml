@@ -16,7 +16,8 @@ menu:
   japanese: "Japanese"
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
-
+  swedish: "Swedish"
+  
 main:
   title: "Chegou a hora de escolher um navegador melhor"
   intro: "Chegou a hora de você escolher"
@@ -26,6 +27,7 @@ main:
   ie_lover: "Não consegue abandonar o Internet Explorer? Há uma versão melhor dele também..."
   
 credits:
+  credits:     "Credits"
   translation: "Tradução"
   design: "Desenvolvido por E.J. Coughlin"
   spanish: "Espanhol por Zac Parker"
@@ -39,5 +41,10 @@ credits:
   russian: "Russo por Xkeeper"
   polish: "Polonês por Kuba B."
   dutch: "Holandês por Ruben van Os"
+  turkish: "Turkish by Unknown"
+  japanese: "Japanese by Unknown"
+  traditional_chinese: Traditional Chinese by xyeal.com"
+  simplified_chinese: Simplified Chinese by xyeal.com"
+  swedish: "Svenska av Christoffer Sawicki"
   site_source: "Código no GitHub"
   contribute: "Se você gostaria de enviar novas traduções fale comigo no Twitter"
