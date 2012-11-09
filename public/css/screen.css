@@ -57,6 +57,8 @@ body            { background: url("http://abetterbrowser.s3.amazonaws.com/images
 .footer .translation.first  { margin-bottom: 11px; }
 .footer .translation.second { margin-bottom: 11px; }
 
+.donate                { position: absolute; display: block; right: 90px; top: -2px;}
+
 .credits               { position: relative;height: 250px;}
 .credits ul            { margin-bottom: 15px; }
 .credits ul li         { list-style: none;}
@@ -92,3 +94,10 @@ h1              { text-shadow: 0 1px 0 #ccc,
                                0 5px 10px rgba(0,0,0,.25),
                                0 10px 10px rgba(0,0,0,.2),
                                0 20px 20px rgba(0,0,0,.15); }
+                               
+hr { border: 0;
+     height: 1px;
+     background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.4), rgba(0,0,0,0)); 
+     background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.4), rgba(0,0,0,0)); 
+     background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.4), rgba(0,0,0,0)); 
+     background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.4), rgba(0,0,0,0));}

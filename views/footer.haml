@@ -1,3 +1,4 @@
+%hr
 .wrapper
   .footer
     %ul
@@ -7,7 +8,14 @@
         %a{ :href => "https://github.com/ejc/abetterbrowser.org", :target => "_blank"}= t.credits.site_source
       %li
         %a{ :href => "/#{@locale}/credits"} Credits
-      
+    
+    .donate     
+      %form{:action => "https://www.paypal.com/cgi-bin/webscr", :method => "post"}
+        %input{:type => "hidden", :name => "cmd", :value => "_s-xclick"}
+        %input{:type => "hidden", :name => "hosted_button_id", :value => "K6E6FZ9LNZNGU"}
+        %input{:type => "image", :src => "https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif", :border => "0", :name => "submit", :alt => "PayPal - The safer, easier way to pay online!"}
+        %img{:alt => "", :border => "0", :src => "https://www.paypalobjects.com/en_US/i/scr/pixel.gif", :width => "1", :height => "1"}
+
     %p.contribute
       %a{ :href => "http://twitter.com/ejc", :target => "_blank"}= t.credits.contribute + " @ejc"
 
