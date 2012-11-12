@@ -22,9 +22,9 @@ main:
   title: "Det är dags att välja en bättre webbläsare"
   intro: "Det har blivit dags för dig att välja"
   headline: "En bättre webbläsare"
-  tagline: "For säkerhet. For kompatibilitet. For mänskligheten."
-  ie6: "Internet Explorer 6 släpptes den 27:e augusti 2001 och är nu ordentligt föråldrad. Var god välj en av följande:"
-  ie_lover: "Kan du inte komma loss från Internet Explorer? Det finns en lite bättre version av den också..."
+  tagline: "För säkerhet. För kompatibilitet. För mänskligheten."
+  ie6: "Internet Explorer 6 släpptes den 27:e augusti 2001 och är nu föråldrad. Var god välj en av följande:"
+  ie_lover: "Kan du inte komma loss från Internet Explorer? Det finns en något bättre version av den också..."
   
 credits:
   credits: "Credits"
