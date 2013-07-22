@@ -1,0 +1,27 @@
+html{ direction: rtl;}
+
+.sf-menu li {
+  float:      right;
+}
+
+.sf-menu li a{
+  float: right;
+  padding-right: 5px;
+}
+
+.sf-menu li img{
+  float: right;
+}
+
+.sf-sub-indicator {
+  left:      14px;
+}
+
+.meh p {
+  padding-left: 0px;
+  padding-right: 55px;
+}
+
+.credits .column        { direction: ltr;}
+.credits .column.first  { right: 150px;}
+.credits .column.second { right: 500px;}

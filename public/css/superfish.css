@@ -138,3 +138,17 @@ li.sfHover > a > .sf-sub-indicator {
 .sf-shadow ul.sf-shadow-off {
   background: transparent;
 }
+
+
+.sf-menu a {
+  display:    inline;
+}
+
+.sf-menu li a{
+  float: left;
+  padding-left: 5px;
+}
+
+.sf-menu li img{
+  float: left;
+}

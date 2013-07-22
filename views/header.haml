@@ -5,6 +5,8 @@
     %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/reset.css" }
     %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/screen.css" }
     %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/superfish.css" }
+    - if t.rtl
+      %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/rtl.css" }
     
     /[if IE 6]
       %link{ :rel => "stylesheet", :type => "text/css", :href => "/css/ie6.css"}
@@ -36,45 +38,19 @@
       google_ad_height = 90;
       //-->
       
-  %body
+  %body  
     .menu
       .nav
         %ul{:class => "sf-menu"}
-          %li
-            %a{:href => "/"}= t.menu.english
-          %li
-            %a{:href => "/zh-cn"}= t.menu.traditional_chinese
-          %li
-            %a{:href => "/zh-hk"}= t.menu.simplified_chinese
-          %li
-            %a{:href => "/es"}= t.menu.spanish
-          %li
-            %a{:href => "/ja"}= t.menu.japanese
-          %li
-            %a{:href => "/pt-br"}= t.menu.portuguesebr
-          %li
-            %a{:href => "/de"}= t.menu.german
-          %li
-            %a{:href => "/fr"}= t.menu.french
-          %li
-            %a{:href => "/ru"}= t.menu.russian
-          %li
-            %a{:href => "/it"}= t.menu.italian
+          - menu.each do |code , flag|
+            %li
+              %img{:src => "../flags_iso/#{flag}.png"}
+              %a( href="/#{code}" )= t.menu[code]
 
           %li
-            %a{:href => "#"} More
+            %a{:href => "#"}= t.main.more
             %ul
-              %li
-                %a{:href => "/cs"}= t.menu.czech
-              %li
-                %a{:href => "/sk"}= t.menu.slovak
-              %li
-                %a{:href => "/sr"}= t.menu.serbian
-              %li
-                %a{:href => "/pl"}= t.menu.polish
-              %li
-                %a{:href => "/tr"}= t.menu.turkish
-              %li
-                %a{:href => "/nl"}= t.menu.dutch
-              %li
-                %a{:href => "/sv"}= t.menu.swedish
+              - sub_menu.each do |code , flag|
+                %li
+                  %img{:src => "../flags_iso/#{flag}.png"}
+                  %a( href="/#{code}" )= t.menu[code]
