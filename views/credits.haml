@@ -3,7 +3,7 @@
 
   %h1= t.main.headline
   %h4= t.credits.credits
-.wrapper  
+.wrapper
   .credits
     %h5= t.credits.translation
     .column.first
@@ -40,11 +40,11 @@
         %li
           %a{ :href => "http://erikfischerphotography.com", :target => "_blank"}= t.credits.german
         %li
-          %a{:href => "/zh-cn"}= t.credits.traditional_chinese
+          %a{:href => "/zh-hk"}= t.credits.traditional_chinese
         %li
-          %a{:href => "/zh-hk"}= t.credits.simplified_chinese
+          %a{:href => "/zh-cn"}= t.credits.simplified_chinese
         %li
           %a{:href => "/nl"}= t.credits.dutch
 
-        
+
 = partial ("footer")
