@@ -17,6 +17,7 @@ menu:
   traditional_chinese: "Trad Chinese"
   simplified_chinese: "Simp Chinese"
   swedish: "Swedish"
+  thai: "Thai"
 
 main:
   title: "It's Time to Choose A Better Browser"
@@ -46,5 +47,6 @@ credits:
   traditional_chinese: "Traditional Chinese by xyeal.com"
   simplified_chinese: "Simplified Chinese by xyeal.com"
   swedish: "Svenska av Christoffer Sawicki"
+  thai: "Thai by Rowakov"
   site_source: "Code on GitHub"
   contribute: "If you would like to provide additional translations ping me on Twitter"
