@@ -7,7 +7,7 @@
       %li
         %a{ :href => "https://github.com/ejc/abetterbrowser.org", :target => "_blank"}= t.credits.site_source
       %li
-        %a{ :href => "/#{@locale}/credits"} Credits
+        %a{ :href => "/#{@locale}/credits"}= t.credits.credits
     
     .donate     
       %form{:action => "https://www.paypal.com/cgi-bin/webscr", :method => "post"}
